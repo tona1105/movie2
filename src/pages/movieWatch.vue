@@ -8,8 +8,9 @@
                 <div class="col col-md-9 col-lg-9">
                     <!-- List episodes and movie's content -->
                     <h3>TẬP PHIM</h3>
-                    <router-link class="btn btn-light mx-1 my-1" :class="{ 'active': item.slug === ep || item.slug === 'full' }"
-                        style="width: 50px;" v-for="(item, index) in listEpisodes" :key="index"
+                    <router-link class="btn btn-light mx-1 my-1"
+                        :class="{ 'active': item.slug === ep || item.slug === 'full' }" style="width: 50px;"
+                        v-for="(item, index) in listEpisodes" :key="index"
                         :to="{ name: 'movie-watch', params: { slug: slug, ep: item.slug } }">
                         {{ item.name }}
                     </router-link>
@@ -59,17 +60,23 @@ export default {
     watch: {
         ep(newEp) {
             this.playMovieByEp(newEp)
+            this.scrollTop()
         }
     },
 
     async created() {
         await this.getMovieBySlug()
         await this.playMovieByEp()
-
+        this.scrollTop()
 
     },
     methods: {
-
+        scrollTop() {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth' 
+            });
+        },
         async getMovieBySlug() {
             try {
                 const response = await axios.get(`https://ophim1.com/phim/${this.slug}`)
@@ -87,7 +94,7 @@ export default {
                     this.srcEp = this.listEpisodes[0].link_embed
                 }
                 else {
-                    this.srcEp = this.listEpisodes[this.ep-1].link_embed
+                    this.srcEp = this.listEpisodes[this.ep - 1].link_embed
                 }
                 console.log(this.srcEp);
             }

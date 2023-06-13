@@ -17,7 +17,10 @@
                         @click="sortByText">Chữ cái
                     </div>
                 </div>
-                <div v-for="(item, index) in paginatedItems" :key="index" class="col-6 col-md-4 col-lg-3 my-1">
+                <span v-if="listSearchMovie.length === 0" class="text-light" style="font-size: 2rem;">
+                    Không tìm thấy phim
+                </span>
+                <div v-for="(item, index) in paginatedItems" :key="index" class="col-6 col-md-4 col-lg-2 my-1">
                     <ItemMovie :movie="item" />
                 </div>
             </div>

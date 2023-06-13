@@ -69,10 +69,6 @@ export default {
                     slug: 'vien-tuong'
                 },
                 {
-                    name: 'Trinh thám',
-                    slug: 'trinh-tham'
-                },
-                {
                     name: 'Cổ trang',
                     slug: 'co-trang'
                 },
@@ -103,10 +99,6 @@ export default {
                 {
                     name: 'Võ thuật',
                     slug: 'vo-thuat'
-                },
-                {
-                    name: 'Viễn tưởng',
-                    slug: 'vien-tuong'
                 },
                 {
                     name: 'Phiêu lưu',

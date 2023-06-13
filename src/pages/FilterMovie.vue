@@ -128,7 +128,7 @@ export default {
         getMovieByCategory() {
             const response = theloai[this.slug]
             this.listFilterMovie = response.items
-            console.log(response);
+            console.log(this.listFilterMovie);
 
         },
         getMovieByCountry() {
