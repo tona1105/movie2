@@ -23,9 +23,8 @@
             </div>
         </div>
         <div class="text-center">
-            <div class="btn btn-primary m-2 px-3 py-2" v-for="(item,index) in totalPages" :key="index"
-            :class="{'disabled': pagination.currentPage === item}"
-            @click="goToPage(item)">
+            <div class="btn btn-primary m-2 px-3 py-2" v-for="(item, index) in totalPages" :key="index"
+                :class="{ 'disabled': pagination.currentPage === item }" @click="goToPage(item)">
                 {{ item }}
             </div>
         </div>
@@ -34,6 +33,7 @@
 
 <script>
 import axios from 'axios'
+import phimmoi from '@/data/phimmoi.json'
 import ItemMovie from '@/components/ItemMovie.vue';
 import DefaultLayout from '@/components/Default-layout.vue';
 export default {
@@ -61,7 +61,7 @@ export default {
     watch: {
         keyword(newKey) {
             this.getMovieByKeyWord(newKey)
-            click = 0
+            this.click = 0
         }
     },
     computed: {
@@ -78,11 +78,11 @@ export default {
         await this.getMovieByKeyWord()
     },
     methods: {
-        async getMovieByKeyWord() {
-            const response = await axios.get(`https://ophim6.cc/_next/data/bMep5VbIGtkpBRqoaRU-z/tim-kiem.json?keyword=${this.keyword}`)
-            const response2 = await axios.get(`https://ophim6.cc/_next/data/bMep5VbIGtkpBRqoaRU-z/tim-kiem.json?page=2&keyword=${this.keyword}`)
-            this.listSearchMovie.push(...response.data.pageProps.data.items)
-            this.listSearchMovie.push(...response2.data.pageProps.data.items)
+        getMovieByKeyWord() {
+            const key = this.keyword.toLowerCase()
+            const movie = phimmoi.items
+            this.listSearchMovie = movie.filter(item => item.name.toLowerCase().includes(key));
+            console.log(this.listSearchMovie);
         },
         sortByYearInc() {
             this.listSearchMovie.sort((a, b) => new Date(b.year) - new Date(a.year))
