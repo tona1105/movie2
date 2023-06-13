@@ -1,0 +1,1753 @@
+{
+    "items": [
+        {
+          "modified": {
+            "time": "2023-06-12T14:55:56.000Z"
+          },
+          "_id": "6486cc726a30601d5570ab39",
+          "name": "Cuốn Sách Kỳ Diệu Mùa Hè",
+          "slug": "cuon-sach-ky-dieu-mua-he",
+          "origin_name": "My Marvellous Fable",
+          "type": "series",
+          "thumb_url": "cuon-sach-ky-dieu-mua-he-thumb.jpg",
+          "poster_url": "cuon-sach-ky-dieu-mua-he-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "30 phút / tập",
+          "episode_current": "Tập 4",
+          "quality": "FHD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620a220de0fc277084dfd16d",
+              "name": "Tình Cảm",
+              "slug": "tinh-cam"
+            }
+          ],
+          "country": [
+            {
+              "id": "62093063196e9f4ab6b448b8",
+              "name": "Trung Quốc",
+              "slug": "trung-quoc"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-12T14:57:35.000Z"
+          },
+          "_id": "648451260fba73ffd2ea91a1",
+          "name": "Trái Tim Rung Động",
+          "slug": "trai-tim-rung-dong",
+          "origin_name": "Skip a Beat",
+          "type": "series",
+          "thumb_url": "trai-tim-rung-dong-thumb.jpg",
+          "poster_url": "trai-tim-rung-dong-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "37 phút/tập",
+          "episode_current": "Tập 14",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620a220de0fc277084dfd16d",
+              "name": "Tình Cảm",
+              "slug": "tinh-cam"
+            }
+          ],
+          "country": [
+            {
+              "id": "62093063196e9f4ab6b448b8",
+              "name": "Trung Quốc",
+              "slug": "trung-quoc"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-11T09:45:01.000Z"
+          },
+          "_id": "648451059b6b2c58a9fe77b4",
+          "name": "I Am Your King 2",
+          "slug": "i-am-your-king-2",
+          "origin_name": "I Am Your King 2",
+          "type": "series",
+          "thumb_url": "i-am-your-king-2-thumb.jpg",
+          "poster_url": "i-am-your-king-2-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "30 phút/tập",
+          "episode_current": "Hoàn Tất (10/10)",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620a2238e0fc277084dfd291",
+              "name": "Tâm Lý",
+              "slug": "tam-ly"
+            },
+            {
+              "id": "62121e821f1609c9d934585c",
+              "name": "Học Đường",
+              "slug": "hoc-duong"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2318e0fc277084dfd77a",
+              "name": "Thái Lan",
+              "slug": "thai-lan"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-11T09:44:36.000Z"
+          },
+          "_id": "648450df9b6b2c58a9fe772f",
+          "name": "I Am Your King 1",
+          "slug": "i-am-your-king-1",
+          "origin_name": "I Am Your King 1",
+          "type": "series",
+          "thumb_url": "i-am-your-king-1-thumb.jpg",
+          "poster_url": "i-am-your-king-1-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "25 phút/tập",
+          "episode_current": "Hoàn Tất (5/5)",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620a2238e0fc277084dfd291",
+              "name": "Tâm Lý",
+              "slug": "tam-ly"
+            },
+            {
+              "id": "62121e821f1609c9d934585c",
+              "name": "Học Đường",
+              "slug": "hoc-duong"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2318e0fc277084dfd77a",
+              "name": "Thái Lan",
+              "slug": "thai-lan"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-10T17:25:14.000Z"
+          },
+          "_id": "64844e806a30601d556fd05b",
+          "name": "Ngôi Trường Bí Ẩn",
+          "slug": "ngoi-truong-bi-an",
+          "origin_name": "Homeschool",
+          "type": "series",
+          "thumb_url": "ngoi-truong-bi-an-thumb.jpg",
+          "poster_url": "ngoi-truong-bi-an-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "54 phút/tập",
+          "episode_current": "Tập 2",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620a220de0fc277084dfd16d",
+              "name": "Tình Cảm",
+              "slug": "tinh-cam"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2318e0fc277084dfd77a",
+              "name": "Thái Lan",
+              "slug": "thai-lan"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-10T16:16:42.000Z"
+          },
+          "_id": "648365f00fba73ffd2ea46d6",
+          "name": "Căn Phòng Chật Chội",
+          "slug": "can-phong-chat-choi",
+          "origin_name": "The Crowded Room",
+          "type": "series",
+          "thumb_url": "can-phong-chat-choi-thumb.jpg",
+          "poster_url": "can-phong-chat-choi-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "60 phút/tập",
+          "episode_current": "Tập 3",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620a2249e0fc277084dfd2e5",
+              "name": "Hình Sự",
+              "slug": "hinh-su"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            },
+            {
+              "id": "620f84d291fa4af90ab6b3f4",
+              "name": "Bí ẩn",
+              "slug": "bi-an"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-10T00:45:37.000Z"
+          },
+          "_id": "64836541bde31827f683b682",
+          "name": "Tour de France: Trên từng dặm đường",
+          "slug": "tour-de-france-tren-tung-dam-duong",
+          "origin_name": "Tour de France: Unchained",
+          "type": "series",
+          "thumb_url": "tour-de-france-tren-tung-dam-duong-thumb.jpg",
+          "poster_url": "tour-de-france-tren-tung-dam-duong-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "45 phút/tập",
+          "episode_current": "Hoàn Tất (8/8)",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620e0e64d9648f114cde7728",
+              "name": "Tài Liệu",
+              "slug": "tai-lieu"
+            },
+            {
+              "id": "620a225fe0fc277084dfd38d",
+              "name": "Thể Thao",
+              "slug": "the-thao"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-10T00:43:32.000Z"
+          },
+          "_id": "648364c4bde31827f683b4d5",
+          "name": "Tex Mex Motors",
+          "slug": "tex-mex-motors",
+          "origin_name": "Tex Mex Motors",
+          "type": "series",
+          "thumb_url": "tex-mex-motors-thumb.jpg",
+          "poster_url": "tex-mex-motors-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "45 phút/tập",
+          "episode_current": "Hoàn Tất (8/8)",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620a2293e0fc277084dfd489",
+              "name": "Phiêu Lưu",
+              "slug": "phieu-luu"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-10T00:42:12.000Z"
+          },
+          "_id": "648364746231cbfdd9552286",
+          "name": "Những điều tôi chưa từng (Phần 4)",
+          "slug": "nhung-dieu-toi-chua-tung-phan-4",
+          "origin_name": "Never Have I Ever (Season 4)",
+          "type": "series",
+          "thumb_url": "nhung-dieu-toi-chua-tung-phan-4-thumb.jpg",
+          "poster_url": "nhung-dieu-toi-chua-tung-phan-4-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "28 phút/tập",
+          "episode_current": "Hoàn Tất (10/10)",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-10T00:38:55.000Z"
+          },
+          "_id": "648363af9b6b2c58a9fe25a9",
+          "name": "The Lake (Phần 2)",
+          "slug": "the-lake-phan-2",
+          "origin_name": "The Lake (Season 2)",
+          "type": "series",
+          "thumb_url": "the-lake-phan-2-thumb.jpg",
+          "poster_url": "the-lake-phan-2-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "30 phút/tập",
+          "episode_current": "Hoàn Tất (8/8)",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620a221de0fc277084dfd1c1",
+              "name": "Hài Hước",
+              "slug": "hai-huoc"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2381e0fc277084dfd9c6",
+              "name": "Canada",
+              "slug": "canada"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-10T00:38:14.000Z"
+          },
+          "_id": "648363860fba73ffd2ea3ec8",
+          "name": "The Lake (Phần 1)",
+          "slug": "the-lake-phan-1",
+          "origin_name": "The Lake (Season 1)",
+          "type": "series",
+          "thumb_url": "the-lake-phan-1-thumb.jpg",
+          "poster_url": "the-lake-phan-1-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "30 phút/tập",
+          "episode_current": "Hoàn Tất (8/8)",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2022,
+          "category": [
+            {
+              "id": "620a221de0fc277084dfd1c1",
+              "name": "Hài Hước",
+              "slug": "hai-huoc"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2381e0fc277084dfd9c6",
+              "name": "Canada",
+              "slug": "canada"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-12T15:21:39.000Z"
+          },
+          "_id": "64833ed06a30601d556f7460",
+          "name": "Kẻ phản diện lãng mạn",
+          "slug": "ke-phan-dien-lang-man",
+          "origin_name": "The Villain of Romance",
+          "type": "series",
+          "thumb_url": "ke-phan-dien-lang-man-thumb.jpg",
+          "poster_url": "ke-phan-dien-lang-man-poster.jpg",
+          "sub_docquyen": true,
+          "chieurap": false,
+          "time": "45 phút/tập",
+          "episode_current": "Tập 3",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620a221de0fc277084dfd1c1",
+              "name": "Hài Hước",
+              "slug": "hai-huoc"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-09T10:48:08.000Z"
+          },
+          "_id": "6482a0f89b6b2c58a9fdd174",
+          "name": "Đi Tìm Hạnh Phúc",
+          "slug": "di-tim-hanh-phuc",
+          "origin_name": "You‘ve Got a Message",
+          "type": "series",
+          "thumb_url": "di-tim-hanh-phuc-thumb.jpg",
+          "poster_url": "di-tim-hanh-phuc-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "10 phút/tập",
+          "episode_current": "Hoàn Tất (7/7)",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2022,
+          "category": [
+            {
+              "id": "620f84d291fa4af90ab6b3f4",
+              "name": "Bí ẩn",
+              "slug": "bi-an"
+            }
+          ],
+          "country": [
+            {
+              "id": "62093063196e9f4ab6b448b8",
+              "name": "Trung Quốc",
+              "slug": "trung-quoc"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-09T00:15:06.000Z"
+          },
+          "_id": "64820c9a9b6b2c58a9fdab83",
+          "name": "Shiny Happy People: Duggar Family Secrets",
+          "slug": "shiny-happy-people-duggar-family-secrets",
+          "origin_name": "Shiny Happy People: Duggar Family Secrets",
+          "type": "series",
+          "thumb_url": "shiny-happy-people-duggar-family-secrets-thumb.jpg",
+          "poster_url": "shiny-happy-people-duggar-family-secrets-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "45 phút/tập",
+          "episode_current": "Hoàn Tất (4/4)",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620e0e64d9648f114cde7728",
+              "name": "Tài Liệu",
+              "slug": "tai-lieu"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-13T14:11:28.000Z"
+          },
+          "_id": "6480c1a76a30601d556ea817",
+          "name": "Xác Sống Đáng Sợ (Phần 8)",
+          "slug": "xac-song-dang-so-phan-8",
+          "origin_name": "Fear the Walking Dead (Season 8)",
+          "type": "series",
+          "thumb_url": "xac-song-dang-so-phan-8-thumb.jpg",
+          "poster_url": "xac-song-dang-so-phan-8-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "43 phút/tập",
+          "episode_current": "Tập 3",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620a21b2e0fc277084dfd0c5",
+              "name": "Hành Động",
+              "slug": "hanh-dong"
+            },
+            {
+              "id": "620a2293e0fc277084dfd489",
+              "name": "Phiêu Lưu",
+              "slug": "phieu-luu"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-08T00:29:32.000Z"
+          },
+          "_id": "6480be7c0fba73ffd2e961d5",
+          "name": "Arnold",
+          "slug": "arnold",
+          "origin_name": "Arnold",
+          "type": "series",
+          "thumb_url": "arnold-thumb.jpg",
+          "poster_url": "arnold-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "60 phút/tập",
+          "episode_current": "Hoàn Tất (3/3)",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620e0e64d9648f114cde7728",
+              "name": "Tài Liệu",
+              "slug": "tai-lieu"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-07T19:16:55.000Z"
+          },
+          "_id": "648071a6bde31827f682adab",
+          "name": "Xe Công Nông Tình Yêu",
+          "slug": "xe-cong-nong-tinh-yeu",
+          "origin_name": "Love Tractor",
+          "type": "series",
+          "thumb_url": "xe-cong-nong-tinh-yeu-thumb.jpg",
+          "poster_url": "xe-cong-nong-tinh-yeu-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "21 phút/tập",
+          "episode_current": "Tập 2",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620a2238e0fc277084dfd291",
+              "name": "Tâm Lý",
+              "slug": "tam-ly"
+            },
+            {
+              "id": "620e4c0b6ba8271c5eef05a8",
+              "name": "Gia Đình",
+              "slug": "gia-dinh"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            },
+            {
+              "id": "620a2370e0fc277084dfd91e",
+              "name": "Anh",
+              "slug": "anh"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-08T12:49:02.000Z"
+          },
+          "_id": "64806d0f6a30601d556e6df2",
+          "name": "Chuyện Yêu Thầm Của Cậu Và Tớ",
+          "slug": "chuyen-yeu-tham-cua-cau-va-to",
+          "origin_name": "We Fall In Love",
+          "type": "series",
+          "thumb_url": "chuyen-yeu-tham-cua-cau-va-to-thumb.jpg",
+          "poster_url": "chuyen-yeu-tham-cua-cau-va-to-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "12 phút/tập",
+          "episode_current": "Tập 10",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620a220de0fc277084dfd16d",
+              "name": "Tình Cảm",
+              "slug": "tinh-cam"
+            }
+          ],
+          "country": [
+            {
+              "id": "62093063196e9f4ab6b448b8",
+              "name": "Trung Quốc",
+              "slug": "trung-quoc"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-08T00:27:59.000Z"
+          },
+          "_id": "64806a3b0fba73ffd2e928b8",
+          "name": "Yêu Em Không Nói Cũng Hiểu",
+          "slug": "yeu-em-khong-noi-cung-hieu",
+          "origin_name": "Love You Self-evident",
+          "type": "series",
+          "thumb_url": "yeu-em-khong-noi-cung-hieu-thumb.jpg",
+          "poster_url": "yeu-em-khong-noi-cung-hieu-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "12 phút/tập",
+          "episode_current": "Hoàn Tất (20/20)",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620a2238e0fc277084dfd291",
+              "name": "Tâm Lý",
+              "slug": "tam-ly"
+            },
+            {
+              "id": "620e4c0b6ba8271c5eef05a8",
+              "name": "Gia Đình",
+              "slug": "gia-dinh"
+            }
+          ],
+          "country": [
+            {
+              "id": "62093063196e9f4ab6b448b8",
+              "name": "Trung Quốc",
+              "slug": "trung-quoc"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-10T17:16:57.000Z"
+          },
+          "_id": "64800a51119a8f27d3cbb912",
+          "name": "Không Chỉ Là Mối Quan Hệ Thuê Chung Nhà",
+          "slug": "khong-chi-la-moi-quan-he-thue-chung-nha",
+          "origin_name": "Not Just Flatmates",
+          "type": "series",
+          "thumb_url": "khong-chi-la-moi-quan-he-thue-chung-nha-thumb.jpg",
+          "poster_url": "khong-chi-la-moi-quan-he-thue-chung-nha-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "11 phút/tập",
+          "episode_current": "Tập 35",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620a220de0fc277084dfd16d",
+              "name": "Tình Cảm",
+              "slug": "tinh-cam"
+            },
+            {
+              "id": "620e4c0b6ba8271c5eef05a8",
+              "name": "Gia Đình",
+              "slug": "gia-dinh"
+            }
+          ],
+          "country": [
+            {
+              "id": "62093063196e9f4ab6b448b8",
+              "name": "Trung Quốc",
+              "slug": "trung-quoc"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-11T10:23:37.000Z"
+          },
+          "_id": "648009e1bde31827f6827c84",
+          "name": "Xin Hãy Trở Thành Người Nhà Của Tôi",
+          "slug": "xin-hay-tro-thanh-nguoi-nha-cua-toi",
+          "origin_name": "Please be My Family",
+          "type": "series",
+          "thumb_url": "xin-hay-tro-thanh-nguoi-nha-cua-toi-thumb.jpg",
+          "poster_url": "xin-hay-tro-thanh-nguoi-nha-cua-toi-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "31 phút/tập",
+          "episode_current": "Tập 24",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620a220de0fc277084dfd16d",
+              "name": "Tình Cảm",
+              "slug": "tinh-cam"
+            },
+            {
+              "id": "620e4c0b6ba8271c5eef05a8",
+              "name": "Gia Đình",
+              "slug": "gia-dinh"
+            }
+          ],
+          "country": [
+            {
+              "id": "62093063196e9f4ab6b448b8",
+              "name": "Trung Quốc",
+              "slug": "trung-quoc"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-11T10:08:46.000Z"
+          },
+          "_id": "648009906231cbfdd953e88b",
+          "name": "Lâu Đài Màu Trắng",
+          "slug": "lau-dai-mau-trang",
+          "origin_name": "The White Castle",
+          "type": "series",
+          "thumb_url": "lau-dai-mau-trang-thumb.jpg",
+          "poster_url": "lau-dai-mau-trang-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "46 phút/tập",
+          "episode_current": "Tập 20",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620a2238e0fc277084dfd291",
+              "name": "Tâm Lý",
+              "slug": "tam-ly"
+            }
+          ],
+          "country": [
+            {
+              "id": "62093063196e9f4ab6b448b8",
+              "name": "Trung Quốc",
+              "slug": "trung-quoc"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-10T18:52:58.000Z"
+          },
+          "_id": "647f2ada6231cbfdd953a7af",
+          "name": "Đừng Buông Tay Em",
+          "slug": "dung-buong-tay-em",
+          "origin_name": "Elimi Bırakma | Don't Let Go of My Hand",
+          "type": "series",
+          "thumb_url": "dung-buong-tay-em-thumb.jpg",
+          "poster_url": "dung-buong-tay-em-poster.jpg",
+          "sub_docquyen": true,
+          "chieurap": false,
+          "time": "120 phút/tập",
+          "episode_current": "Tập 3",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2018,
+          "category": [
+            {
+              "id": "620a220de0fc277084dfd16d",
+              "name": "Tình Cảm",
+              "slug": "tinh-cam"
+            }
+          ],
+          "country": [
+            {
+              "id": "620f7fa791fa4af90ab6ad1f",
+              "name": "Thổ Nhĩ Kỳ",
+              "slug": "tho-nhi-ky"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-06T00:10:58.000Z"
+          },
+          "_id": "647e1722bde31827f681eccd",
+          "name": "Barracuda Queens",
+          "slug": "barracuda-queens",
+          "origin_name": "Barracuda Queens",
+          "type": "series",
+          "thumb_url": "barracuda-queens-thumb.jpg",
+          "poster_url": "barracuda-queens-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "34 phút/tập",
+          "episode_current": "Hoàn Tất (6/6)",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "62135e8d1f1609c9d9346c8a",
+              "name": "Thụy Điển",
+              "slug": "thuy-dien"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-13T13:04:01.000Z"
+          },
+          "_id": "647dbe020fba73ffd2e84a4e",
+          "name": "Thần Tượng",
+          "slug": "than-tuong-2023",
+          "origin_name": "The Idol",
+          "type": "series",
+          "thumb_url": "than-tuong-2023-thumb.jpg",
+          "poster_url": "than-tuong-2023-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "55 phút/tập",
+          "episode_current": "Tập 2",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            },
+            {
+              "id": "620a2381e0fc277084dfd9c6",
+              "name": "Canada",
+              "slug": "canada"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-04T11:32:06.000Z"
+          },
+          "_id": "647c13c6bde31827f6813667",
+          "name": "Valeria (Phần 3)",
+          "slug": "valeria-phan-3",
+          "origin_name": "Valeria (Season 3)",
+          "type": "series",
+          "thumb_url": "valeria-phan-3-thumb.jpg",
+          "poster_url": "valeria-phan-3-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "37 phút/tập",
+          "episode_current": "Hoàn Tất (8/8)",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620e0ea0d9648f114cde784b",
+              "name": "Tây Ban Nha",
+              "slug": "tay-ban-nha"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-03T12:18:41.000Z"
+          },
+          "_id": "647acd319b6b2c58a9fb5e42",
+          "name": "Thập Nhị Đàm",
+          "slug": "thap-nhi-dam",
+          "origin_name": "Twelve Legends",
+          "type": "series",
+          "thumb_url": "thap-nhi-dam-thumb.jpg",
+          "poster_url": "thap-nhi-dam-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "45 phút/tập",
+          "episode_current": "Hoàn Tất (32/32)",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2021,
+          "category": [
+            {
+              "id": "620a2238e0fc277084dfd291",
+              "name": "Tâm Lý",
+              "slug": "tam-ly"
+            },
+            {
+              "id": "620a220de0fc277084dfd16d",
+              "name": "Tình Cảm",
+              "slug": "tinh-cam"
+            }
+          ],
+          "country": [
+            {
+              "id": "62093063196e9f4ab6b448b8",
+              "name": "Trung Quốc",
+              "slug": "trung-quoc"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-03T12:17:41.000Z"
+          },
+          "_id": "647accf56a30601d556cb636",
+          "name": "Mỹ Nữ Tái Sinh",
+          "slug": "my-nu-tai-sinh",
+          "origin_name": "Birth of a Beauty",
+          "type": "series",
+          "thumb_url": "my-nu-tai-sinh-thumb.jpg",
+          "poster_url": "my-nu-tai-sinh-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "60 phút/tập",
+          "episode_current": "Hoàn Tất (21/21)",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2014,
+          "category": [
+            {
+              "id": "620a220de0fc277084dfd16d",
+              "name": "Tình Cảm",
+              "slug": "tinh-cam"
+            },
+            {
+              "id": "620a221de0fc277084dfd1c1",
+              "name": "Hài Hước",
+              "slug": "hai-huoc"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-03T12:16:40.000Z"
+          },
+          "_id": "647accb86231cbfdd9525ba0",
+          "name": "Bông Hồng Thép",
+          "slug": "bong-hong-thep",
+          "origin_name": "Daybreak 2019",
+          "type": "series",
+          "thumb_url": "bong-hong-thep-thumb.jpg",
+          "poster_url": "bong-hong-thep-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "45 phút/tập",
+          "episode_current": "Hoàn Tất (20/20)",
+          "quality": "HD",
+          "lang": "Thuyết Minh",
+          "year": 2019,
+          "category": [
+            {
+              "id": "620a220de0fc277084dfd16d",
+              "name": "Tình Cảm",
+              "slug": "tinh-cam"
+            }
+          ],
+          "country": [
+            {
+              "id": "62093063196e9f4ab6b448b8",
+              "name": "Trung Quốc",
+              "slug": "trung-quoc"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-03T12:15:33.000Z"
+          },
+          "_id": "647acc75bde31827f680e80d",
+          "name": "Tân Bảo Tiêu",
+          "slug": "tan-bao-tieu",
+          "origin_name": "Treasure Safeguarding",
+          "type": "series",
+          "thumb_url": "tan-bao-tieu-thumb.jpg",
+          "poster_url": "tan-bao-tieu-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "45 phút/tập",
+          "episode_current": "Hoàn Tất (32/32)",
+          "quality": "HD",
+          "lang": "Thuyết Minh",
+          "year": 2013,
+          "category": [
+            {
+              "id": "620a222fe0fc277084dfd23d",
+              "name": "Cổ Trang",
+              "slug": "co-trang"
+            }
+          ],
+          "country": [
+            {
+              "id": "62093063196e9f4ab6b448b8",
+              "name": "Trung Quốc",
+              "slug": "trung-quoc"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-03T11:38:24.000Z"
+          },
+          "_id": "647ac3c06a30601d556cb0c4",
+          "name": "Vòng xoáy",
+          "slug": "vong-xoay",
+          "origin_name": "Vortex",
+          "type": "series",
+          "thumb_url": "vong-xoay-thumb.jpg",
+          "poster_url": "vong-xoay-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "55 phút/tập",
+          "episode_current": "Hoàn Tất (6/6)",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620a2282e0fc277084dfd435",
+              "name": "Viễn Tưởng",
+              "slug": "vien-tuong"
+            },
+            {
+              "id": "620a229be0fc277084dfd4dd",
+              "name": "Khoa Học",
+              "slug": "khoa-hoc"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2378e0fc277084dfd972",
+              "name": "Pháp",
+              "slug": "phap"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-03T11:37:29.000Z"
+          },
+          "_id": "647ac3856231cbfdd9525605",
+          "name": "Tin độc",
+          "slug": "tin-doc",
+          "origin_name": "Scoop",
+          "type": "series",
+          "thumb_url": "tin-doc-thumb.jpg",
+          "poster_url": "tin-doc-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "57 phút/tập",
+          "episode_current": "Hoàn Tất (6/6)",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2355e0fc277084dfd8ca",
+              "name": "Ấn Độ",
+              "slug": "an-do"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-09T00:13:35.000Z"
+          },
+          "_id": "647ac2376231cbfdd9524f9e",
+          "name": "With Love (Phần 2)",
+          "slug": "with-love-phan-2",
+          "origin_name": "With Love (Season 2)",
+          "type": "series",
+          "thumb_url": "with-love-phan-2-thumb.jpg",
+          "poster_url": "with-love-phan-2-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "50 phút/tập",
+          "episode_current": "Hoàn Tất (6/6)",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620a221de0fc277084dfd1c1",
+              "name": "Hài Hước",
+              "slug": "hai-huoc"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-03T11:31:16.000Z"
+          },
+          "_id": "647ac214119a8f27d3ca19a9",
+          "name": "With Love (Phần 1)",
+          "slug": "with-love-phan-1",
+          "origin_name": "With Love (Season 1)",
+          "type": "series",
+          "thumb_url": "with-love-phan-1-thumb.jpg",
+          "poster_url": "with-love-phan-1-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "50 phút/tập",
+          "episode_current": "Hoàn Tất (5/5)",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2021,
+          "category": [
+            {
+              "id": "620a221de0fc277084dfd1c1",
+              "name": "Hài Hước",
+              "slug": "hai-huoc"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-10T00:37:36.000Z"
+          },
+          "_id": "6479891a119a8f27d3c9cc18",
+          "name": "Deadloch",
+          "slug": "deadloch",
+          "origin_name": "Deadloch",
+          "type": "series",
+          "thumb_url": "deadloch-thumb.jpg",
+          "poster_url": "deadloch-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "60 phút/tập",
+          "episode_current": "Tập 4",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620a221de0fc277084dfd1c1",
+              "name": "Hài Hước",
+              "slug": "hai-huoc"
+            },
+            {
+              "id": "620a2249e0fc277084dfd2e5",
+              "name": "Hình Sự",
+              "slug": "hinh-su"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            },
+            {
+              "id": "62135c8f1f1609c9d9346bb1",
+              "name": "Úc",
+              "slug": "uc"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-02T12:15:40.000Z"
+          },
+          "_id": "64797afc119a8f27d3c9c5d5",
+          "name": "Những Ngày Sau Thảm Họa",
+          "slug": "nhung-ngay-sau-tham-hoa",
+          "origin_name": "The Days",
+          "type": "series",
+          "thumb_url": "nhung-ngay-sau-tham-hoa-thumb.jpg",
+          "poster_url": "nhung-ngay-sau-tham-hoa-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "48 phút/tập",
+          "episode_current": "Hoàn Tất (8/8)",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2307e0fc277084dfd726",
+              "name": "Nhật Bản",
+              "slug": "nhat-ban"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-12T19:43:50.000Z"
+          },
+          "_id": "64795d7f9b6b2c58a9faf54e",
+          "name": "Soi Sáng Cho Em",
+          "slug": "soi-sang-cho-em",
+          "origin_name": "A Date With the Future",
+          "type": "series",
+          "thumb_url": "soi-sang-cho-em-thumb.jpg",
+          "poster_url": "soi-sang-cho-em-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "45 phút/tập",
+          "episode_current": "Tập 22",
+          "quality": "FHD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "62093063196e9f4ab6b448b8",
+              "name": "Trung Quốc",
+              "slug": "trung-quoc"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-04T19:06:53.000Z"
+          },
+          "_id": "64795cad6a30601d556c4c74",
+          "name": "Đúng Lúc Gặp Được Em",
+          "slug": "dung-luc-gap-duoc-em",
+          "origin_name": "Hi Producer!",
+          "type": "series",
+          "thumb_url": "dung-luc-gap-duoc-em-thumb.jpg",
+          "poster_url": "dung-luc-gap-duoc-em-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "45 phút/tập",
+          "episode_current": "Hoàn Tất (35/35)",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620a220de0fc277084dfd16d",
+              "name": "Tình Cảm",
+              "slug": "tinh-cam"
+            }
+          ],
+          "country": [
+            {
+              "id": "62093063196e9f4ab6b448b8",
+              "name": "Trung Quốc",
+              "slug": "trung-quoc"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-12T19:44:30.000Z"
+          },
+          "_id": "64795c4c6231cbfdd951f3eb",
+          "name": "Vùng Biển Trong Mơ - Where Dreams Begin",
+          "slug": "vung-bien-trong-mo-where-dreams-begin",
+          "origin_name": "The Youth Memories",
+          "type": "series",
+          "thumb_url": "vung-bien-trong-mo-where-dreams-begin-thumb.jpg",
+          "poster_url": "vung-bien-trong-mo-where-dreams-begin-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "45 phút/tập",
+          "episode_current": "Tập 26",
+          "quality": "FHD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "62093063196e9f4ab6b448b8",
+              "name": "Trung Quốc",
+              "slug": "trung-quoc"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-10T19:02:00.000Z"
+          },
+          "_id": "64795bb6119a8f27d3c9bace",
+          "name": "Thục Niên",
+          "slug": "thuc-nien",
+          "origin_name": "In Later Years",
+          "type": "series",
+          "thumb_url": "thuc-nien-thumb.jpg",
+          "poster_url": "thuc-nien-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "45 phút/tập",
+          "episode_current": "Tập 21",
+          "quality": "FHD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620a2238e0fc277084dfd291",
+              "name": "Tâm Lý",
+              "slug": "tam-ly"
+            },
+            {
+              "id": "620e4c0b6ba8271c5eef05a8",
+              "name": "Gia Đình",
+              "slug": "gia-dinh"
+            }
+          ],
+          "country": [
+            {
+              "id": "62093063196e9f4ab6b448b8",
+              "name": "Trung Quốc",
+              "slug": "trung-quoc"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-09T11:54:28.000Z"
+          },
+          "_id": "6478301a6231cbfdd9519e4c",
+          "name": "Mau Tái Hôn Đi, Xin Em Đó",
+          "slug": "mau-tai-hon-di-xin-em-do",
+          "origin_name": "Please Remarry",
+          "type": "series",
+          "thumb_url": "mau-tai-hon-di-xin-em-do-thumb.jpg",
+          "poster_url": "mau-tai-hon-di-xin-em-do-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "10 phút/tập",
+          "episode_current": "Tập 24",
+          "quality": "FHD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620a220de0fc277084dfd16d",
+              "name": "Tình Cảm",
+              "slug": "tinh-cam"
+            },
+            {
+              "id": "620a221de0fc277084dfd1c1",
+              "name": "Hài Hước",
+              "slug": "hai-huoc"
+            }
+          ],
+          "country": [
+            {
+              "id": "62093063196e9f4ab6b448b8",
+              "name": "Trung Quốc",
+              "slug": "trung-quoc"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-08T23:42:14.000Z"
+          },
+          "_id": "647806cebde31827f6801098",
+          "name": "Trận Chiến Hạnh Phúc",
+          "slug": "tran-chien-hanh-phuc",
+          "origin_name": "Battle for Happiness (Happiness Battle)",
+          "type": "series",
+          "thumb_url": "tran-chien-hanh-phuc-thumb.jpg",
+          "poster_url": "tran-chien-hanh-phuc-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "60 phút/tập",
+          "episode_current": "Tập 4",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-01T01:46:23.000Z"
+          },
+          "_id": "647795ffbde31827f68001a0",
+          "name": "Tiệm Cà Phê Hoàng Tử",
+          "slug": "tiem-ca-phe-hoang-tu",
+          "origin_name": "Coffee Prince",
+          "type": "series",
+          "thumb_url": "tiem-ca-phe-hoang-tu-thumb.jpg",
+          "poster_url": "tiem-ca-phe-hoang-tu-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "61 phút/tập",
+          "episode_current": "Hoàn Tất (17/17)",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2007,
+          "category": [
+            {
+              "id": "620a221de0fc277084dfd1c1",
+              "name": "Hài Hước",
+              "slug": "hai-huoc"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-01T01:45:42.000Z"
+          },
+          "_id": "647795d66a30601d556bcec0",
+          "name": "Kỳ Vọng Lớn Lao",
+          "slug": "ky-vong-lon-lao",
+          "origin_name": "Great Inheritance",
+          "type": "series",
+          "thumb_url": "ky-vong-lon-lao-thumb.jpg",
+          "poster_url": "ky-vong-lon-lao-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "70 phút/tập",
+          "episode_current": "Hoàn Tất (17/17)",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2006,
+          "category": [
+            {
+              "id": "620a221de0fc277084dfd1c1",
+              "name": "Hài Hước",
+              "slug": "hai-huoc"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-01T01:44:21.000Z"
+          },
+          "_id": "64779585bde31827f6800008",
+          "name": "Huyền thoại Iljimae",
+          "slug": "huyen-thoai-iljimae",
+          "origin_name": "Iljimae",
+          "type": "series",
+          "thumb_url": "huyen-thoai-iljimae-thumb.jpg",
+          "poster_url": "huyen-thoai-iljimae-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "65 phút/tập",
+          "episode_current": "Hoàn Tất (20/20)",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2008,
+          "category": [
+            {
+              "id": "620a21b2e0fc277084dfd0c5",
+              "name": "Hành Động",
+              "slug": "hanh-dong"
+            },
+            {
+              "id": "620a2293e0fc277084dfd489",
+              "name": "Phiêu Lưu",
+              "slug": "phieu-luu"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-01T01:43:45.000Z"
+          },
+          "_id": "64779561bde31827f67fff6c",
+          "name": "Hương Mùa Hè",
+          "slug": "huong-mua-he",
+          "origin_name": "Summer Scent",
+          "type": "series",
+          "thumb_url": "huong-mua-he-thumb.jpg",
+          "poster_url": "huong-mua-he-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "70 phút/tập",
+          "episode_current": "Hoàn Tất (20/20)",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2003,
+          "category": [
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-01T01:43:11.000Z"
+          },
+          "_id": "6477953f0fba73ffd2e68fca",
+          "name": "Cô Gái Thấy Mùi Hương",
+          "slug": "co-gai-thay-mui-huong",
+          "origin_name": "The Girl Who Sees Smells",
+          "type": "series",
+          "thumb_url": "co-gai-thay-mui-huong-thumb.jpg",
+          "poster_url": "co-gai-thay-mui-huong-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "60 phút/tập",
+          "episode_current": "Hoàn Tất (16/16)",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2015,
+          "category": [
+            {
+              "id": "620a221de0fc277084dfd1c1",
+              "name": "Hài Hước",
+              "slug": "hai-huoc"
+            },
+            {
+              "id": "620a2282e0fc277084dfd435",
+              "name": "Viễn Tưởng",
+              "slug": "vien-tuong"
+            },
+            {
+              "id": "620a229be0fc277084dfd4dd",
+              "name": "Khoa Học",
+              "slug": "khoa-hoc"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-01T01:42:05.000Z"
+          },
+          "_id": "647794fd9b6b2c58a9fa7369",
+          "name": "Xin lỗi, anh yêu em",
+          "slug": "xin-loi-anh-yeu-em-2004",
+          "origin_name": "I'm Sorry, I Love You",
+          "type": "series",
+          "thumb_url": "xin-loi-anh-yeu-em-2004-thumb.jpg",
+          "poster_url": "xin-loi-anh-yeu-em-2004-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "62 phút/tập",
+          "episode_current": "Hoàn Tất (16/16)",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2004,
+          "category": [
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ]
+        }
+      ]
+}

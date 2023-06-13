@@ -1,0 +1,1031 @@
+{
+    "items": [
+        {
+          "modified": {
+            "time": "2023-06-10T17:35:13.000Z"
+          },
+          "_id": "648451e16231cbfdd955756f",
+          "name": "Kẻ Bất Lương",
+          "slug": "ke-bat-luong",
+          "origin_name": "Nefarious",
+          "type": "single",
+          "thumb_url": "ke-bat-luong-thumb.jpg",
+          "poster_url": "ke-bat-luong-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "98 Phút",
+          "episode_current": "Trailer",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620a22ace0fc277084dfd531",
+              "name": "Kinh Dị",
+              "slug": "kinh-di"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-09T11:27:08.000Z"
+          },
+          "_id": "6482aa1c6231cbfdd954cd0a",
+          "name": "Robot Đại Chiến: Quái Thú Trỗi Dậy",
+          "slug": "robot-dai-chien-quai-thu-troi-day",
+          "origin_name": "Transformers: Rise of the Beasts",
+          "type": "single",
+          "thumb_url": "robot-dai-chien-quai-thu-troi-day-thumb.jpg",
+          "poster_url": "robot-dai-chien-quai-thu-troi-day-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": true,
+          "time": "127 Phút",
+          "episode_current": "Trailer",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620a21b2e0fc277084dfd0c5",
+              "name": "Hành Động",
+              "slug": "hanh-dong"
+            },
+            {
+              "id": "620a2282e0fc277084dfd435",
+              "name": "Viễn Tưởng",
+              "slug": "vien-tuong"
+            },
+            {
+              "id": "620a2293e0fc277084dfd489",
+              "name": "Phiêu Lưu",
+              "slug": "phieu-luu"
+            },
+            {
+              "id": "620a229be0fc277084dfd4dd",
+              "name": "Khoa Học",
+              "slug": "khoa-hoc"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            },
+            {
+              "id": "620a2381e0fc277084dfd9c6",
+              "name": "Canada",
+              "slug": "canada"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-07T18:25:00.000Z"
+          },
+          "_id": "6480690cbde31827f682993a",
+          "name": "Tinh Linh Long Mã",
+          "slug": "tinh-linh-long-ma",
+          "origin_name": "Ride On",
+          "type": "single",
+          "thumb_url": "tinh-linh-long-ma-thumb.jpg",
+          "poster_url": "tinh-linh-long-ma-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "126 Phút",
+          "episode_current": "Trailer",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620a21b2e0fc277084dfd0c5",
+              "name": "Hành Động",
+              "slug": "hanh-dong"
+            },
+            {
+              "id": "620a221de0fc277084dfd1c1",
+              "name": "Hài Hước",
+              "slug": "hai-huoc"
+            },
+            {
+              "id": "620a2293e0fc277084dfd489",
+              "name": "Phiêu Lưu",
+              "slug": "phieu-luu"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "62093063196e9f4ab6b448b8",
+              "name": "Trung Quốc",
+              "slug": "trung-quoc"
+            },
+            {
+              "id": "620a2347e0fc277084dfd876",
+              "name": "Hồng Kông",
+              "slug": "hong-kong"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-06-07T18:23:44.000Z"
+          },
+          "_id": "648068c06a30601d556e64ee",
+          "name": "Asterix và Obelix: Vương Quốc Trung Cổ",
+          "slug": "asterix-va-obelix-vuong-quoc-trung-co",
+          "origin_name": "Asterix & Obelix: The Middle Kingdom",
+          "type": "single",
+          "thumb_url": "asterix-va-obelix-vuong-quoc-trung-co-thumb.jpg",
+          "poster_url": "asterix-va-obelix-vuong-quoc-trung-co-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "112 Phút",
+          "episode_current": "Trailer",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620a221de0fc277084dfd1c1",
+              "name": "Hài Hước",
+              "slug": "hai-huoc"
+            },
+            {
+              "id": "620a2293e0fc277084dfd489",
+              "name": "Phiêu Lưu",
+              "slug": "phieu-luu"
+            },
+            {
+              "id": "620e4c0b6ba8271c5eef05a8",
+              "name": "Gia Đình",
+              "slug": "gia-dinh"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2378e0fc277084dfd972",
+              "name": "Pháp",
+              "slug": "phap"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-05-29T15:49:30.000Z"
+          },
+          "_id": "6474671a9b6b2c58a9f9a0e8",
+          "name": "Bí Mật Trụ Sở Nazi",
+          "slug": "bi-mat-tru-so-nazi",
+          "origin_name": "Condor's Nest",
+          "type": "single",
+          "thumb_url": "bi-mat-tru-so-nazi-thumb.jpg",
+          "poster_url": "bi-mat-tru-so-nazi-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "103 Phút",
+          "episode_current": "Trailer",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620a21b2e0fc277084dfd0c5",
+              "name": "Hành Động",
+              "slug": "hanh-dong"
+            },
+            {
+              "id": "620a2253e0fc277084dfd339",
+              "name": "Chiến Tranh",
+              "slug": "chien-tranh"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-05-22T14:38:10.000Z"
+          },
+          "_id": "646b1be20fba73ffd2e37a0b",
+          "name": "Hố Sâu Bí Ẩn",
+          "slug": "ho-sau-bi-an",
+          "origin_name": "Crater",
+          "type": "single",
+          "thumb_url": "ho-sau-bi-an-thumb.jpg",
+          "poster_url": "ho-sau-bi-an-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "104 Phút",
+          "episode_current": "Trailer",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620a21b2e0fc277084dfd0c5",
+              "name": "Hành Động",
+              "slug": "hanh-dong"
+            },
+            {
+              "id": "620a2282e0fc277084dfd435",
+              "name": "Viễn Tưởng",
+              "slug": "vien-tuong"
+            },
+            {
+              "id": "620a2293e0fc277084dfd489",
+              "name": "Phiêu Lưu",
+              "slug": "phieu-luu"
+            },
+            {
+              "id": "620a229be0fc277084dfd4dd",
+              "name": "Khoa Học",
+              "slug": "khoa-hoc"
+            },
+            {
+              "id": "620e4c0b6ba8271c5eef05a8",
+              "name": "Gia Đình",
+              "slug": "gia-dinh"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-05-21T18:08:28.000Z"
+          },
+          "_id": "6469fbac9b6b2c58a9f722a7",
+          "name": "Truy Bắt Sát Nhân",
+          "slug": "truy-bat-sat-nhan",
+          "origin_name": "To Catch a Killer",
+          "type": "single",
+          "thumb_url": "truy-bat-sat-nhan-thumb.jpg",
+          "poster_url": "truy-bat-sat-nhan-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "119 Phút",
+          "episode_current": "Trailer",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620a21b2e0fc277084dfd0c5",
+              "name": "Hành Động",
+              "slug": "hanh-dong"
+            },
+            {
+              "id": "620a2249e0fc277084dfd2e5",
+              "name": "Hình Sự",
+              "slug": "hinh-su"
+            },
+            {
+              "id": "620f84d291fa4af90ab6b3f4",
+              "name": "Bí ẩn",
+              "slug": "bi-an"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-05-17T18:11:05.000Z"
+          },
+          "_id": "6464b6496a30601d55672ecd",
+          "name": "Avengers: Cuộc Chiến Bí Mật",
+          "slug": "avengers-cuoc-chien-bi-mat",
+          "origin_name": "Avengers: Secret Wars",
+          "type": "single",
+          "thumb_url": "avengers-cuoc-chien-bi-mat-thumb.jpg",
+          "poster_url": "avengers-cuoc-chien-bi-mat-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "0 Phút",
+          "episode_current": "Trailer",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2026,
+          "category": [
+            {
+              "id": "620a21b2e0fc277084dfd0c5",
+              "name": "Hành Động",
+              "slug": "hanh-dong"
+            },
+            {
+              "id": "620a2282e0fc277084dfd435",
+              "name": "Viễn Tưởng",
+              "slug": "vien-tuong"
+            },
+            {
+              "id": "620a229be0fc277084dfd4dd",
+              "name": "Khoa Học",
+              "slug": "khoa-hoc"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-05-17T18:10:04.000Z"
+          },
+          "_id": "6464b60cbde31827f67b76d9",
+          "name": "Avengers: Triều Đại của Kang",
+          "slug": "avengers-trieu-dai-cua-kang",
+          "origin_name": "Avengers: The Kang Dynasty",
+          "type": "single",
+          "thumb_url": "avengers-trieu-dai-cua-kang-thumb.jpg",
+          "poster_url": "avengers-trieu-dai-cua-kang-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "0 Phút",
+          "episode_current": "Trailer",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2025,
+          "category": [
+            {
+              "id": "620a21b2e0fc277084dfd0c5",
+              "name": "Hành Động",
+              "slug": "hanh-dong"
+            },
+            {
+              "id": "620a2282e0fc277084dfd435",
+              "name": "Viễn Tưởng",
+              "slug": "vien-tuong"
+            },
+            {
+              "id": "620a229be0fc277084dfd4dd",
+              "name": "Khoa Học",
+              "slug": "khoa-hoc"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-05-17T18:08:31.000Z"
+          },
+          "_id": "6464b5afbde31827f67b75d9",
+          "name": "Bộ Tứ Siêu Đẳng",
+          "slug": "bo-tu-sieu-dang-2025",
+          "origin_name": "Fantastic Four",
+          "type": "single",
+          "thumb_url": "bo-tu-sieu-dang-2025-thumb.jpg",
+          "poster_url": "bo-tu-sieu-dang-2025-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "0 Phút",
+          "episode_current": "Trailer",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2025,
+          "category": [
+            {
+              "id": "620a21b2e0fc277084dfd0c5",
+              "name": "Hành Động",
+              "slug": "hanh-dong"
+            },
+            {
+              "id": "620a2282e0fc277084dfd435",
+              "name": "Viễn Tưởng",
+              "slug": "vien-tuong"
+            },
+            {
+              "id": "620a229be0fc277084dfd4dd",
+              "name": "Khoa Học",
+              "slug": "khoa-hoc"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-05-17T18:04:47.000Z"
+          },
+          "_id": "6464b4cf6231cbfdd94cd8fa",
+          "name": "Quái Nhân Deadpool 3",
+          "slug": "quai-nhan-deadpool-3",
+          "origin_name": "Deadpool 3",
+          "type": "single",
+          "thumb_url": "quai-nhan-deadpool-3-thumb.jpg",
+          "poster_url": "quai-nhan-deadpool-3-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "0 Phút",
+          "episode_current": "Trailer",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2024,
+          "category": [
+            {
+              "id": "620a21b2e0fc277084dfd0c5",
+              "name": "Hành Động",
+              "slug": "hanh-dong"
+            },
+            {
+              "id": "620a221de0fc277084dfd1c1",
+              "name": "Hài Hước",
+              "slug": "hai-huoc"
+            },
+            {
+              "id": "620a2293e0fc277084dfd489",
+              "name": "Phiêu Lưu",
+              "slug": "phieu-luu"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-05-17T17:59:31.000Z"
+          },
+          "_id": "6464b3939b6b2c58a9f5cfb3",
+          "name": "Thunderbolts",
+          "slug": "thunderbolts",
+          "origin_name": "Thunderbolts",
+          "type": "single",
+          "thumb_url": "thunderbolts-thumb.jpg",
+          "poster_url": "thunderbolts-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "0 Phút",
+          "episode_current": "Trailer",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2024,
+          "category": [
+            {
+              "id": "620a21b2e0fc277084dfd0c5",
+              "name": "Hành Động",
+              "slug": "hanh-dong"
+            },
+            {
+              "id": "620a2293e0fc277084dfd489",
+              "name": "Phiêu Lưu",
+              "slug": "phieu-luu"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-05-17T17:57:58.000Z"
+          },
+          "_id": "6464b2d49b6b2c58a9f5cd7f",
+          "name": "Captain America: Trật Tự Thế Giới Mới",
+          "slug": "captain-america-trat-tu-the-gioi-moi",
+          "origin_name": "Captain America: New World Order",
+          "type": "single",
+          "thumb_url": "captain-america-trat-tu-the-gioi-moi-thumb.jpg",
+          "poster_url": "captain-america-trat-tu-the-gioi-moi-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "0 Phút",
+          "episode_current": "Trailer",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2024,
+          "category": [
+            {
+              "id": "620a21b2e0fc277084dfd0c5",
+              "name": "Hành Động",
+              "slug": "hanh-dong"
+            },
+            {
+              "id": "620a2282e0fc277084dfd435",
+              "name": "Viễn Tưởng",
+              "slug": "vien-tuong"
+            },
+            {
+              "id": "620a2293e0fc277084dfd489",
+              "name": "Phiêu Lưu",
+              "slug": "phieu-luu"
+            },
+            {
+              "id": "620a229be0fc277084dfd4dd",
+              "name": "Khoa Học",
+              "slug": "khoa-hoc"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-05-17T17:55:36.000Z"
+          },
+          "_id": "6464b2a89b6b2c58a9f5ccda",
+          "name": "Biệt Đội Marvel",
+          "slug": "biet-doi-marvel",
+          "origin_name": "The Marvels",
+          "type": "single",
+          "thumb_url": "biet-doi-marvel-thumb.jpg",
+          "poster_url": "biet-doi-marvel-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "0 Phút",
+          "episode_current": "Trailer",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620a21b2e0fc277084dfd0c5",
+              "name": "Hành Động",
+              "slug": "hanh-dong"
+            },
+            {
+              "id": "620a2282e0fc277084dfd435",
+              "name": "Viễn Tưởng",
+              "slug": "vien-tuong"
+            },
+            {
+              "id": "620a2293e0fc277084dfd489",
+              "name": "Phiêu Lưu",
+              "slug": "phieu-luu"
+            },
+            {
+              "id": "620a229be0fc277084dfd4dd",
+              "name": "Khoa Học",
+              "slug": "khoa-hoc"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-05-12T19:01:43.000Z"
+          },
+          "_id": "645e2aa70fba73ffd2e05342",
+          "name": "Người Canh Giữ Cuối Cùng",
+          "slug": "nguoi-canh-giu-cuoi-cung",
+          "origin_name": "Last Sentinel",
+          "type": "single",
+          "thumb_url": "nguoi-canh-giu-cuoi-cung-thumb.jpg",
+          "poster_url": "nguoi-canh-giu-cuoi-cung-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "112 Phút",
+          "episode_current": "Trailer",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620a2282e0fc277084dfd435",
+              "name": "Viễn Tưởng",
+              "slug": "vien-tuong"
+            },
+            {
+              "id": "620a229be0fc277084dfd4dd",
+              "name": "Khoa Học",
+              "slug": "khoa-hoc"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2370e0fc277084dfd91e",
+              "name": "Anh",
+              "slug": "anh"
+            },
+            {
+              "id": "620e0e8fd9648f114cde77f7",
+              "name": "Đức",
+              "slug": "duc"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-05-08T16:01:52.000Z"
+          },
+          "_id": "6458ba7cbde31827f678bb1c",
+          "name": "Thỏa Thuận Với Ác Quỷ",
+          "slug": "thoa-thuan-voi-ac-quy",
+          "origin_name": "The Devil's Deal",
+          "type": "single",
+          "thumb_url": "thoa-thuan-voi-ac-quy-thumb.jpg",
+          "poster_url": "thoa-thuan-voi-ac-quy-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "116 Phút",
+          "episode_current": "Trailer",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620a2249e0fc277084dfd2e5",
+              "name": "Hình Sự",
+              "slug": "hinh-su"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            },
+            {
+              "id": "620a2238e0fc277084dfd291",
+              "name": "Tâm Lý",
+              "slug": "tam-ly"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-05-05T13:46:06.000Z"
+          },
+          "_id": "6454a62eca5e47f40630edfb",
+          "name": "Lời Mời Sát Nhân",
+          "slug": "loi-moi-sat-nhan",
+          "origin_name": "Invitation to a Murder",
+          "type": "single",
+          "thumb_url": "loi-moi-sat-nhan-thumb.jpg",
+          "poster_url": "loi-moi-sat-nhan-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "93 Phút",
+          "episode_current": "Trailer",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620f84d291fa4af90ab6b3f4",
+              "name": "Bí ẩn",
+              "slug": "bi-an"
+            },
+            {
+              "id": "620a2249e0fc277084dfd2e5",
+              "name": "Hình Sự",
+              "slug": "hinh-su"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-05-01T16:40:32.000Z"
+          },
+          "_id": "644f8910595a05e9202e114b",
+          "name": "Quái Vật Dưới Bể Nước",
+          "slug": "quai-vat-duoi-be-nuoc",
+          "origin_name": "The Tank",
+          "type": "single",
+          "thumb_url": "quai-vat-duoi-be-nuoc-thumb.jpg",
+          "poster_url": "quai-vat-duoi-be-nuoc-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "100 Phút",
+          "episode_current": "Trailer",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620a22ace0fc277084dfd531",
+              "name": "Kinh Dị",
+              "slug": "kinh-di"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-04-25T18:50:37.000Z"
+          },
+          "_id": "6447be27bc6d4cc9c4b7b083",
+          "name": "Biệt Đội Thuốc Lá",
+          "slug": "biet-doi-thuoc-la",
+          "origin_name": "Smoking Causes Coughing",
+          "type": "single",
+          "thumb_url": "biet-doi-thuoc-la-thumb.jpg",
+          "poster_url": "biet-doi-thuoc-la-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "1 giờ 17 phút",
+          "episode_current": "Trailer",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620a221de0fc277084dfd1c1",
+              "name": "Hài Hước",
+              "slug": "hai-huoc"
+            },
+            {
+              "id": "6242b89cc78eb57bbfe29f91",
+              "name": "Phim 18+",
+              "slug": "phim-18"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a231fe0fc277084dfd7ce",
+              "name": "Âu Mỹ",
+              "slug": "au-my"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-04-25T18:42:42.000Z"
+          },
+          "_id": "6447bc6e06956a473bb61cdc",
+          "name": "Bài ca của lưỡi kiếm",
+          "slug": "bai-ca-cua-luoi-kiem",
+          "origin_name": "Song of the Bandits",
+          "type": "single",
+          "thumb_url": "bai-ca-cua-luoi-kiem-thumb.jpg",
+          "poster_url": "bai-ca-cua-luoi-kiem-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "60 phút/tập",
+          "episode_current": "Trailer",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620a21b2e0fc277084dfd0c5",
+              "name": "Hành Động",
+              "slug": "hanh-dong"
+            },
+            {
+              "id": "620a2293e0fc277084dfd489",
+              "name": "Phiêu Lưu",
+              "slug": "phieu-luu"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-04-25T18:34:23.000Z"
+          },
+          "_id": "6447babfc3112f4644efbceb",
+          "name": "Nghệ thuật săn quỷ và nấu mì (Phần 2)",
+          "slug": "nghe-thuat-san-quy-va-nau-mi-phan-2",
+          "origin_name": "The Uncanny Counter (Season 2)",
+          "type": "series",
+          "thumb_url": "nghe-thuat-san-quy-va-nau-mi-phan-2-thumb.jpg",
+          "poster_url": "nghe-thuat-san-quy-va-nau-mi-phan-2-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "1g 8phút/tập",
+          "episode_current": "Trailer",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620a21b2e0fc277084dfd0c5",
+              "name": "Hành Động",
+              "slug": "hanh-dong"
+            },
+            {
+              "id": "620a2293e0fc277084dfd489",
+              "name": "Phiêu Lưu",
+              "slug": "phieu-luu"
+            },
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-04-25T18:31:41.000Z"
+          },
+          "_id": "6447ba1d11f407ffb91463bd",
+          "name": "Thời gian gọi tên em",
+          "slug": "thoi-gian-goi-ten-em",
+          "origin_name": "A Time Called You",
+          "type": "series",
+          "thumb_url": "thoi-gian-goi-ten-em-thumb.jpg",
+          "poster_url": "thoi-gian-goi-ten-em-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "60 phút/tập",
+          "episode_current": "Trailer",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620f3d2b91fa4af90ab697fe",
+              "name": "Chính kịch",
+              "slug": "chinh-kich"
+            },
+            {
+              "id": "620a220de0fc277084dfd16d",
+              "name": "Tình Cảm",
+              "slug": "tinh-cam"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-04-24T13:15:33.000Z"
+          },
+          "_id": "64461e859a90db3f525d4250",
+          "name": "SUGA: Road to D-DAY",
+          "slug": "suga-road-to-d-day",
+          "origin_name": "SUGA: Road to D-DAY",
+          "type": "single",
+          "thumb_url": "suga-road-to-d-day-thumb.jpg",
+          "poster_url": "suga-road-to-d-day-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "81 Phút",
+          "episode_current": "Full",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2023,
+          "category": [
+            {
+              "id": "620e0e64d9648f114cde7728",
+              "name": "Tài Liệu",
+              "slug": "tai-lieu"
+            },
+            {
+              "id": "620a22bae0fc277084dfd585",
+              "name": "Âm Nhạc",
+              "slug": "am-nhac"
+            }
+          ],
+          "country": [
+            {
+              "id": "620a2300e0fc277084dfd6d2",
+              "name": "Hàn Quốc",
+              "slug": "han-quoc"
+            }
+          ]
+        },
+        {
+          "modified": {
+            "time": "2023-04-24T13:13:00.000Z"
+          },
+          "_id": "64461dec9a90db3f525d414e",
+          "name": "Hiệp Hội UFO",
+          "slug": "hiep-hoi-ufo",
+          "origin_name": "UFO Sweden",
+          "type": "single",
+          "thumb_url": "hiep-hoi-ufo-thumb.jpg",
+          "poster_url": "hiep-hoi-ufo-poster.jpg",
+          "sub_docquyen": false,
+          "chieurap": false,
+          "time": "115 Phút",
+          "episode_current": "Trailer",
+          "quality": "HD",
+          "lang": "Vietsub",
+          "year": 2022,
+          "category": [
+            {
+              "id": "620a2282e0fc277084dfd435",
+              "name": "Viễn Tưởng",
+              "slug": "vien-tuong"
+            },
+            {
+              "id": "620a2293e0fc277084dfd489",
+              "name": "Phiêu Lưu",
+              "slug": "phieu-luu"
+            },
+            {
+              "id": "620a229be0fc277084dfd4dd",
+              "name": "Khoa Học",
+              "slug": "khoa-hoc"
+            }
+          ],
+          "country": [
+            {
+              "id": "62135e8d1f1609c9d9346c8a",
+              "name": "Thụy Điển",
+              "slug": "thuy-dien"
+            }
+          ]
+        }
+    ]
+}
