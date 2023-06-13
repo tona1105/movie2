@@ -46,9 +46,9 @@ export default {
             const response = phimsapchieu
             this.listPreMovie = response.items
         },
-        getNewMovie() {
-            const response = phimmoi
-            this.listNewMovie = response.items
+        async getNewMovie() {
+            const response = await axios.get(`https://ophim1.com/danh-sach/phim-moi-cap-nhat?page=1`)
+            this.listNewMovie = response.data.items
         }
     }
 }

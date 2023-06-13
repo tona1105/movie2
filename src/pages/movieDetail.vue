@@ -105,14 +105,21 @@ export default {
     async created() {
         await this.getMovieBySlug()
         await this.getNewMovie()
+        this.scrollTop()
     },
     watch: {
         slug(newSlug) {
             this.getMovieBySlug(newSlug);
-            document.documentElement.scrollTop = 0;
+            this.scrollTop()
         }
     },
     methods: {
+        scrollTop() {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth' 
+            });
+        },
         removePTag(string) {
             if (string) {
                 return string.replace(/<\/?p>/g, '');

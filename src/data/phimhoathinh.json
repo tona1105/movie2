@@ -1,941 +1,1858 @@
 {
-    "items": [
+  "items": [
+    {
+      "modified": {
+        "time": "2023-06-10T12:01:38.000Z"
+      },
+      "_id": "648365000fba73ffd2ea440b",
+      "name": "Thế giới này không thể tha hóa tôi",
+      "slug": "the-gioi-nay-khong-the-tha-hoa-toi",
+      "origin_name": "This World Can't Tear Me Down",
+      "type": "hoathinh",
+      "thumb_url": "the-gioi-nay-khong-the-tha-hoa-toi-thumb.jpg",
+      "poster_url": "the-gioi-nay-khong-the-tha-hoa-toi-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "30 phút/tập",
+      "episode_current": "Hoàn Tất (6/6)",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2023,
+      "category": [
         {
-          "modified": {
-            "time": "2023-06-13T12:36:28.000Z"
-          },
-          "_id": "6488005a9b6b2c58a9ff9e0e",
-          "name": "Cuộc Phiêu Lưu Của Chú Rùa Sammy 2: Thoát Khỏi Thiên Đường",
-          "slug": "cuoc-phieu-luu-cua-chu-rua-sammy-2-thoat-khoi-thien-duong",
-          "origin_name": "A Turtle's Tale 2: Sammy's Escape from Paradise",
-          "type": "hoathinh",
-          "thumb_url": "cuoc-phieu-luu-cua-chu-rua-sammy-2-thoat-khoi-thien-duong-thumb.jpg",
-          "poster_url": "cuoc-phieu-luu-cua-chu-rua-sammy-2-thoat-khoi-thien-duong-poster.jpg",
-          "sub_docquyen": false,
-          "chieurap": false,
-          "time": "92 Phút",
-          "episode_current": "Full",
-          "quality": "HD",
-          "lang": "Vietsub",
-          "year": 2012,
-          "category": [
-            {
-              "id": "620a2293e0fc277084dfd489",
-              "name": "Phiêu Lưu",
-              "slug": "phieu-luu"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a231fe0fc277084dfd7ce",
-              "name": "Âu Mỹ",
-              "slug": "au-my"
-            }
-          ]
+          "id": "620f3d2b91fa4af90ab697fe",
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a2370e0fc277084dfd91e",
+          "name": "Anh",
+          "slug": "anh"
         },
         {
-          "modified": {
-            "time": "2023-06-13T12:13:54.000Z"
-          },
-          "_id": "6487fb10bde31827f6851ba3",
-          "name": "Hành Tinh 51",
-          "slug": "hanh-tinh-51",
-          "origin_name": "Planet 51",
-          "type": "hoathinh",
-          "thumb_url": "hanh-tinh-51-thumb.jpg",
-          "poster_url": "hanh-tinh-51-poster.jpg",
-          "sub_docquyen": false,
-          "chieurap": false,
-          "time": "91 Phút",
-          "episode_current": "Full",
-          "quality": "HD",
-          "lang": "Vietsub",
-          "year": 2009,
-          "category": [
-            {
-              "id": "620a221de0fc277084dfd1c1",
-              "name": "Hài Hước",
-              "slug": "hai-huoc"
-            },
-            {
-              "id": "620a2282e0fc277084dfd435",
-              "name": "Viễn Tưởng",
-              "slug": "vien-tuong"
-            },
-            {
-              "id": "620a2293e0fc277084dfd489",
-              "name": "Phiêu Lưu",
-              "slug": "phieu-luu"
-            },
-            {
-              "id": "620e4c0b6ba8271c5eef05a8",
-              "name": "Gia Đình",
-              "slug": "gia-dinh"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a231fe0fc277084dfd7ce",
-              "name": "Âu Mỹ",
-              "slug": "au-my"
-            }
-          ]
-        },
-        {
-          "modified": {
-            "time": "2023-06-12T10:58:09.000Z"
-          },
-          "_id": "648697cd0fba73ffd2eb44da",
-          "name": "Giai Điệu Thiên Niên Kỷ 2000",
-          "slug": "giai-dieu-thien-nien-ky-2000",
-          "origin_name": "Fantasia 2000",
-          "type": "hoathinh",
-          "thumb_url": "giai-dieu-thien-nien-ky-2000-thumb.jpg",
-          "poster_url": "giai-dieu-thien-nien-ky-2000-poster.jpg",
-          "sub_docquyen": false,
-          "chieurap": false,
-          "time": "74 Phút",
-          "episode_current": "Full",
-          "quality": "HD",
-          "lang": "Vietsub",
-          "year": 1999,
-          "category": [
-            {
-              "id": "620a22bae0fc277084dfd585",
-              "name": "Âm Nhạc",
-              "slug": "am-nhac"
-            },
-            {
-              "id": "620e4c0b6ba8271c5eef05a8",
-              "name": "Gia Đình",
-              "slug": "gia-dinh"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a231fe0fc277084dfd7ce",
-              "name": "Âu Mỹ",
-              "slug": "au-my"
-            }
-          ]
-        },
-        {
-          "modified": {
-            "time": "2023-06-12T10:18:59.000Z"
-          },
-          "_id": "64868ea1119a8f27d3cde962",
-          "name": "Niko 2- Giáng Sinh Phiêu Lưu Ký",
-          "slug": "niko-2-giang-sinh-phieu-luu-ky",
-          "origin_name": "Niko 2: Little Brother, Big Trouble",
-          "type": "hoathinh",
-          "thumb_url": "niko-2-giang-sinh-phieu-luu-ky-thumb.jpg",
-          "poster_url": "niko-2-giang-sinh-phieu-luu-ky-poster.jpg",
-          "sub_docquyen": false,
-          "chieurap": false,
-          "time": "79 Phút",
-          "episode_current": "Full",
-          "quality": "HD",
-          "lang": "Vietsub",
-          "year": 2012,
-          "category": [
-            {
-              "id": "620a221de0fc277084dfd1c1",
-              "name": "Hài Hước",
-              "slug": "hai-huoc"
-            },
-            {
-              "id": "620a2293e0fc277084dfd489",
-              "name": "Phiêu Lưu",
-              "slug": "phieu-luu"
-            },
-            {
-              "id": "620e4c0b6ba8271c5eef05a8",
-              "name": "Gia Đình",
-              "slug": "gia-dinh"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2398e0fc277084dfda1a",
-              "name": "Quốc Gia Khác",
-              "slug": "quoc-gia-khac"
-            }
-          ]
-        },
-        {
-          "modified": {
-            "time": "2023-06-11T10:41:59.000Z"
-          },
-          "_id": "648542869b6b2c58a9fed229",
-          "name": "Dạo Bước Cùng Khủng Long",
-          "slug": "dao-buoc-cung-khung-long",
-          "origin_name": "Walking with Dinosaurs 3D",
-          "type": "hoathinh",
-          "thumb_url": "dao-buoc-cung-khung-long-thumb.jpg",
-          "poster_url": "dao-buoc-cung-khung-long-poster.jpg",
-          "sub_docquyen": false,
-          "chieurap": false,
-          "time": "87 Phút",
-          "episode_current": "Full",
-          "quality": "HD",
-          "lang": "Vietsub",
-          "year": 2013,
-          "category": [
-            {
-              "id": "620a2293e0fc277084dfd489",
-              "name": "Phiêu Lưu",
-              "slug": "phieu-luu"
-            },
-            {
-              "id": "620e4c0b6ba8271c5eef05a8",
-              "name": "Gia Đình",
-              "slug": "gia-dinh"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a231fe0fc277084dfd7ce",
-              "name": "Âu Mỹ",
-              "slug": "au-my"
-            }
-          ]
-        },
-        {
-          "modified": {
-            "time": "2023-06-10T10:22:06.000Z"
-          },
-          "_id": "6483ec5c0fba73ffd2ea5c4e",
-          "name": "Khủng Long Đại Chiến",
-          "slug": "khung-long-dai-chien",
-          "origin_name": "Speckles: The Tarbosaurus",
-          "type": "hoathinh",
-          "thumb_url": "khung-long-dai-chien-thumb.jpg",
-          "poster_url": "khung-long-dai-chien-poster.jpg",
-          "sub_docquyen": false,
-          "chieurap": false,
-          "time": "88 Phút",
-          "episode_current": "Full",
-          "quality": "HD",
-          "lang": "Vietsub",
-          "year": 2012,
-          "category": [
-            {
-              "id": "620a2282e0fc277084dfd435",
-              "name": "Viễn Tưởng",
-              "slug": "vien-tuong"
-            },
-            {
-              "id": "620a2293e0fc277084dfd489",
-              "name": "Phiêu Lưu",
-              "slug": "phieu-luu"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2300e0fc277084dfd6d2",
-              "name": "Hàn Quốc",
-              "slug": "han-quoc"
-            }
-          ]
-        },
-        {
-          "modified": {
-            "time": "2023-06-10T12:01:38.000Z"
-          },
-          "_id": "648365000fba73ffd2ea440b",
-          "name": "Thế giới này không thể tha hóa tôi",
-          "slug": "the-gioi-nay-khong-the-tha-hoa-toi",
-          "origin_name": "This World Can't Tear Me Down",
-          "type": "hoathinh",
-          "thumb_url": "the-gioi-nay-khong-the-tha-hoa-toi-thumb.jpg",
-          "poster_url": "the-gioi-nay-khong-the-tha-hoa-toi-poster.jpg",
-          "sub_docquyen": false,
-          "chieurap": false,
-          "time": "30 phút/tập",
-          "episode_current": "Hoàn Tất (6/6)",
-          "quality": "HD",
-          "lang": "Vietsub",
-          "year": 2023,
-          "category": [
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2370e0fc277084dfd91e",
-              "name": "Anh",
-              "slug": "anh"
-            },
-            {
-              "id": "621674a770b58bba6858b852",
-              "name": "Ý",
-              "slug": "y"
-            }
-          ]
-        },
-        {
-          "modified": {
-            "time": "2023-06-09T08:26:30.000Z"
-          },
-          "_id": "64827fc40fba73ffd2e9e3a8",
-          "name": "Chiến Binh Lồng Đèn Xanh: Hiệp Sĩ Ngọc Bích",
-          "slug": "chien-binh-long-den-xanh-hiep-si-ngoc-bich",
-          "origin_name": "Green Lantern: Emerald Knights",
-          "type": "hoathinh",
-          "thumb_url": "chien-binh-long-den-xanh-hiep-si-ngoc-bich-thumb.jpg",
-          "poster_url": "chien-binh-long-den-xanh-hiep-si-ngoc-bich-poster.jpg",
-          "sub_docquyen": false,
-          "chieurap": false,
-          "time": "84 Phút",
-          "episode_current": "Full",
-          "quality": "HD",
-          "lang": "Vietsub",
-          "year": 2011,
-          "category": [
-            {
-              "id": "620a21b2e0fc277084dfd0c5",
-              "name": "Hành Động",
-              "slug": "hanh-dong"
-            },
-            {
-              "id": "620a2282e0fc277084dfd435",
-              "name": "Viễn Tưởng",
-              "slug": "vien-tuong"
-            },
-            {
-              "id": "620a2293e0fc277084dfd489",
-              "name": "Phiêu Lưu",
-              "slug": "phieu-luu"
-            },
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a231fe0fc277084dfd7ce",
-              "name": "Âu Mỹ",
-              "slug": "au-my"
-            }
-          ]
-        },
-        {
-          "modified": {
-            "time": "2023-06-09T02:14:28.000Z"
-          },
-          "_id": "648228949b6b2c58a9fdb505",
-          "name": "Tsukiuta. The Animation",
-          "slug": "tsukiuta-the-animation",
-          "origin_name": "Tsukiuta. The Animation",
-          "type": "hoathinh",
-          "thumb_url": "tsukiuta-the-animation-thumb.jpg",
-          "poster_url": "tsukiuta-the-animation-poster.jpg",
-          "sub_docquyen": false,
-          "chieurap": false,
-          "time": "24 phút/tập",
-          "episode_current": "Hoàn Tất (13/13)",
-          "quality": "HD",
-          "lang": "Vietsub",
-          "year": 2016,
-          "category": [
-            {
-              "id": "620a2293e0fc277084dfd489",
-              "name": "Phiêu Lưu",
-              "slug": "phieu-luu"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2307e0fc277084dfd726",
-              "name": "Nhật Bản",
-              "slug": "nhat-ban"
-            }
-          ]
-        },
-        {
-          "modified": {
-            "time": "2023-06-09T02:15:12.000Z"
-          },
-          "_id": "64822849119a8f27d3cc7cbd",
-          "name": "To Be Hero",
-          "slug": "to-be-hero",
-          "origin_name": "To Be Hero",
-          "type": "hoathinh",
-          "thumb_url": "to-be-hero-thumb.jpg",
-          "poster_url": "to-be-hero-poster.jpg",
-          "sub_docquyen": false,
-          "chieurap": false,
-          "time": "11 phút/tập",
-          "episode_current": "Hoàn Tất (12/12)",
-          "quality": "HD",
-          "lang": "Vietsub",
-          "year": 2016,
-          "category": [
-            {
-              "id": "620a221de0fc277084dfd1c1",
-              "name": "Hài Hước",
-              "slug": "hai-huoc"
-            }
-          ],
-          "country": [
-            {
-              "id": "62093063196e9f4ab6b448b8",
-              "name": "Trung Quốc",
-              "slug": "trung-quoc"
-            },
-            {
-              "id": "620a2307e0fc277084dfd726",
-              "name": "Nhật Bản",
-              "slug": "nhat-ban"
-            }
-          ]
-        },
-        {
-          "modified": {
-            "time": "2023-06-09T02:12:40.000Z"
-          },
-          "_id": "64822828bde31827f6834214",
-          "name": "Tales of Zestiria the X",
-          "slug": "tales-of-zestiria-the-x",
-          "origin_name": "Tales of Zestiria the X",
-          "type": "hoathinh",
-          "thumb_url": "tales-of-zestiria-the-x-thumb.jpg",
-          "poster_url": "tales-of-zestiria-the-x-poster.jpg",
-          "sub_docquyen": false,
-          "chieurap": false,
-          "time": "23 phút/tập",
-          "episode_current": "Hoàn Tất (13/13)",
-          "quality": "HD",
-          "lang": "Vietsub",
-          "year": 2016,
-          "category": [
-            {
-              "id": "620a2282e0fc277084dfd435",
-              "name": "Viễn Tưởng",
-              "slug": "vien-tuong"
-            },
-            {
-              "id": "620a229be0fc277084dfd4dd",
-              "name": "Khoa Học",
-              "slug": "khoa-hoc"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2307e0fc277084dfd726",
-              "name": "Nhật Bản",
-              "slug": "nhat-ban"
-            }
-          ]
-        },
-        {
-          "modified": {
-            "time": "2023-06-09T02:10:18.000Z"
-          },
-          "_id": "6482279a6231cbfdd954abce",
-          "name": "Tabi Machi Late Show",
-          "slug": "tabi-machi-late-show",
-          "origin_name": "Tabi Machi Late Show",
-          "type": "hoathinh",
-          "thumb_url": "tabi-machi-late-show-thumb.jpg",
-          "poster_url": "tabi-machi-late-show-poster.jpg",
-          "sub_docquyen": false,
-          "chieurap": false,
-          "time": "7 phút/tập",
-          "episode_current": "Hoàn Tất (4/4)",
-          "quality": "HD",
-          "lang": "Vietsub",
-          "year": 2016,
-          "category": [
-            {
-              "id": "620a2293e0fc277084dfd489",
-              "name": "Phiêu Lưu",
-              "slug": "phieu-luu"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2307e0fc277084dfd726",
-              "name": "Nhật Bản",
-              "slug": "nhat-ban"
-            }
-          ]
-        },
-        {
-          "modified": {
-            "time": "2023-06-09T02:09:20.000Z"
-          },
-          "_id": "648227600fba73ffd2e9cbaf",
-          "name": "Poco ở thế giới Udon",
-          "slug": "poco-o-the-gioi-udon",
-          "origin_name": "Poco's Udon World",
-          "type": "hoathinh",
-          "thumb_url": "poco-o-the-gioi-udon-thumb.jpg",
-          "poster_url": "poco-o-the-gioi-udon-poster.jpg",
-          "sub_docquyen": false,
-          "chieurap": false,
-          "time": "23 phút/tập",
-          "episode_current": "Hoàn Tất (12/12)",
-          "quality": "HD",
-          "lang": "Vietsub",
-          "year": 2016,
-          "category": [
-            {
-              "id": "620a2293e0fc277084dfd489",
-              "name": "Phiêu Lưu",
-              "slug": "phieu-luu"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2307e0fc277084dfd726",
-              "name": "Nhật Bản",
-              "slug": "nhat-ban"
-            }
-          ]
-        },
-        {
-          "modified": {
-            "time": "2023-06-09T02:08:19.000Z"
-          },
-          "_id": "64822723bde31827f6833eff",
-          "name": "Sushi Police",
-          "slug": "sushi-police",
-          "origin_name": "Sushi Police",
-          "type": "hoathinh",
-          "thumb_url": "sushi-police-thumb.jpg",
-          "poster_url": "sushi-police-poster.jpg",
-          "sub_docquyen": false,
-          "chieurap": false,
-          "time": "4 phút/tập",
-          "episode_current": "Hoàn Tất (13/13)",
-          "quality": "HD",
-          "lang": "Vietsub",
-          "year": 2016,
-          "category": [
-            {
-              "id": "620a2293e0fc277084dfd489",
-              "name": "Phiêu Lưu",
-              "slug": "phieu-luu"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2307e0fc277084dfd726",
-              "name": "Nhật Bản",
-              "slug": "nhat-ban"
-            }
-          ]
-        },
-        {
-          "modified": {
-            "time": "2023-06-07T11:22:57.000Z"
-          },
-          "_id": "64800620119a8f27d3cbad9c",
-          "name": "Lupin the Third vs. Detective Conan: The Movie",
-          "slug": "lupin-the-third-vs-detective-conan-the-movie",
-          "origin_name": "Lupin Đệ Tam và Thám Tử Lừng Danh Conan",
-          "type": "hoathinh",
-          "thumb_url": "lupin-the-third-vs-detective-conan-the-movie-thumb.jpg",
-          "poster_url": "lupin-the-third-vs-detective-conan-the-movie-poster.jpg",
-          "sub_docquyen": false,
-          "chieurap": false,
-          "time": "106 Phút",
-          "episode_current": "Full",
-          "quality": "HD",
-          "lang": "Vietsub",
-          "year": 2013,
-          "category": [
-            {
-              "id": "620a21b2e0fc277084dfd0c5",
-              "name": "Hành Động",
-              "slug": "hanh-dong"
-            },
-            {
-              "id": "620f84d291fa4af90ab6b3f4",
-              "name": "Bí ẩn",
-              "slug": "bi-an"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2307e0fc277084dfd726",
-              "name": "Nhật Bản",
-              "slug": "nhat-ban"
-            }
-          ]
-        },
-        {
-          "modified": {
-            "time": "2023-06-06T00:11:33.000Z"
-          },
-          "_id": "647e11c06a30601d556dac98",
-          "name": "Doraemon: Nobita và Binh Đoàn Người Sắt",
-          "slug": "doraemon-nobita-va-binh-doan-nguoi-sat",
-          "origin_name": "Doraemon: Nobita and the New Steel Troops: Angel Wings",
-          "type": "hoathinh",
-          "thumb_url": "doraemon-nobita-va-binh-doan-nguoi-sat-thumb.jpg",
-          "poster_url": "doraemon-nobita-va-binh-doan-nguoi-sat-poster.jpg",
-          "sub_docquyen": false,
-          "chieurap": false,
-          "time": "108 Phút",
-          "episode_current": "Full",
-          "quality": "HD",
-          "lang": "Vietsub",
-          "year": 2011,
-          "category": [
-            {
-              "id": "620a2282e0fc277084dfd435",
-              "name": "Viễn Tưởng",
-              "slug": "vien-tuong"
-            },
-            {
-              "id": "620a2293e0fc277084dfd489",
-              "name": "Phiêu Lưu",
-              "slug": "phieu-luu"
-            },
-            {
-              "id": "620e4c0b6ba8271c5eef05a8",
-              "name": "Gia Đình",
-              "slug": "gia-dinh"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2307e0fc277084dfd726",
-              "name": "Nhật Bản",
-              "slug": "nhat-ban"
-            }
-          ]
-        },
-        {
-          "modified": {
-            "time": "2023-06-06T00:11:36.000Z"
-          },
-          "_id": "647e11560fba73ffd2e86fec",
-          "name": "Doraemon: Nobita và Cuộc Đại Thủy Chiến Ở Xứ Sở Người Cá",
-          "slug": "doraemon-nobita-va-cuoc-dai-thuy-chien-o-xu-so-nguoi-ca",
-          "origin_name": "Doraemon the Movie: Nobita's Mermaid Legend",
-          "type": "hoathinh",
-          "thumb_url": "doraemon-nobita-va-cuoc-dai-thuy-chien-o-xu-so-nguoi-ca-thumb.jpg",
-          "poster_url": "doraemon-nobita-va-cuoc-dai-thuy-chien-o-xu-so-nguoi-ca-poster.jpg",
-          "sub_docquyen": false,
-          "chieurap": false,
-          "time": "100 Phút",
-          "episode_current": "Full",
-          "quality": "HD",
-          "lang": "Vietsub",
-          "year": 2010,
-          "category": [
-            {
-              "id": "620a2293e0fc277084dfd489",
-              "name": "Phiêu Lưu",
-              "slug": "phieu-luu"
-            },
-            {
-              "id": "620e4c0b6ba8271c5eef05a8",
-              "name": "Gia Đình",
-              "slug": "gia-dinh"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2307e0fc277084dfd726",
-              "name": "Nhật Bản",
-              "slug": "nhat-ban"
-            }
-          ]
-        },
-        {
-          "modified": {
-            "time": "2023-06-04T18:45:59.000Z"
-          },
-          "_id": "647c79759b6b2c58a9fbd947",
-          "name": "Siêu Nhân và Người Dơi: Khải Huyền",
-          "slug": "sieu-nhan-va-nguoi-doi-khai-huyen",
-          "origin_name": "Superman Batman: Apocalypse",
-          "type": "hoathinh",
-          "thumb_url": "sieu-nhan-va-nguoi-doi-khai-huyen-thumb.jpg",
-          "poster_url": "sieu-nhan-va-nguoi-doi-khai-huyen-poster.jpg",
-          "sub_docquyen": false,
-          "chieurap": false,
-          "time": "78 Phút",
-          "episode_current": "Full",
-          "quality": "HD",
-          "lang": "Vietsub",
-          "year": 2010,
-          "category": [
-            {
-              "id": "620a21b2e0fc277084dfd0c5",
-              "name": "Hành Động",
-              "slug": "hanh-dong"
-            },
-            {
-              "id": "620a2282e0fc277084dfd435",
-              "name": "Viễn Tưởng",
-              "slug": "vien-tuong"
-            },
-            {
-              "id": "620a2293e0fc277084dfd489",
-              "name": "Phiêu Lưu",
-              "slug": "phieu-luu"
-            },
-            {
-              "id": "620e4c0b6ba8271c5eef05a8",
-              "name": "Gia Đình",
-              "slug": "gia-dinh"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a231fe0fc277084dfd7ce",
-              "name": "Âu Mỹ",
-              "slug": "au-my"
-            }
-          ]
-        },
-        {
-          "modified": {
-            "time": "2023-06-04T18:42:24.000Z"
-          },
-          "_id": "647c789ebde31827f6816611",
-          "name": "Bất Thường Tại Trường Phép Thuật- Cô Gái Triệu Hồi Những Vì Sao",
-          "slug": "bat-thuong-tai-truong-phep-thuat-co-gai-trieu-hoi-nhung-vi-sao",
-          "origin_name": "The Irregular at Magic High School: The Girl Who Summons the Stars",
-          "type": "hoathinh",
-          "thumb_url": "bat-thuong-tai-truong-phep-thuat-co-gai-trieu-hoi-nhung-vi-sao-thumb.jpg",
-          "poster_url": "bat-thuong-tai-truong-phep-thuat-co-gai-trieu-hoi-nhung-vi-sao-poster.jpg",
-          "sub_docquyen": false,
-          "chieurap": false,
-          "time": "90 Phút",
-          "episode_current": "Full",
-          "quality": "HD",
-          "lang": "Vietsub",
-          "year": 2017,
-          "category": [
-            {
-              "id": "620a21b2e0fc277084dfd0c5",
-              "name": "Hành Động",
-              "slug": "hanh-dong"
-            },
-            {
-              "id": "620a2282e0fc277084dfd435",
-              "name": "Viễn Tưởng",
-              "slug": "vien-tuong"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2307e0fc277084dfd726",
-              "name": "Nhật Bản",
-              "slug": "nhat-ban"
-            }
-          ]
-        },
-        {
-          "modified": {
-            "time": "2023-06-03T11:35:38.000Z"
-          },
-          "_id": "647ac31a0fba73ffd2e76f6e",
-          "name": "Thám tử động vật (Phần 3)",
-          "slug": "tham-tu-dong-vat-phan-3",
-          "origin_name": "The Creature Cases (Season 3)",
-          "type": "hoathinh",
-          "thumb_url": "tham-tu-dong-vat-phan-3-thumb.jpg",
-          "poster_url": "tham-tu-dong-vat-phan-3-poster.jpg",
-          "sub_docquyen": false,
-          "chieurap": false,
-          "time": "28 phút/tập",
-          "episode_current": "Hoàn Tất (7/7)",
-          "quality": "HD",
-          "lang": "Vietsub",
-          "year": 2023,
-          "category": [
-            {
-              "id": "620a2293e0fc277084dfd489",
-              "name": "Phiêu Lưu",
-              "slug": "phieu-luu"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a231fe0fc277084dfd7ce",
-              "name": "Âu Mỹ",
-              "slug": "au-my"
-            }
-          ]
-        },
-        {
-          "modified": {
-            "time": "2023-06-02T19:55:38.000Z"
-          },
-          "_id": "6479e6c96a30601d556c8886",
-          "name": "Phiêu Lưu Ngoài Không Gian",
-          "slug": "phieu-luu-ngoai-khong-gian",
-          "origin_name": "Welcome to the Space Show",
-          "type": "hoathinh",
-          "thumb_url": "phieu-luu-ngoai-khong-gian-thumb.jpg",
-          "poster_url": "phieu-luu-ngoai-khong-gian-poster.jpg",
-          "sub_docquyen": false,
-          "chieurap": false,
-          "time": "136 Phút",
-          "episode_current": "Full",
-          "quality": "HD",
-          "lang": "Vietsub",
-          "year": 2010,
-          "category": [
-            {
-              "id": "620a2282e0fc277084dfd435",
-              "name": "Viễn Tưởng",
-              "slug": "vien-tuong"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2307e0fc277084dfd726",
-              "name": "Nhật Bản",
-              "slug": "nhat-ban"
-            }
-          ]
-        },
-        {
-          "modified": {
-            "time": "2023-06-02T08:31:04.000Z"
-          },
-          "_id": "647946576a30601d556c3913",
-          "name": "Linh Hồn Nguyên Thủy",
-          "slug": "linh-hon-nguyen-thuy",
-          "origin_name": "Origin: Spirits of the Past",
-          "type": "hoathinh",
-          "thumb_url": "linh-hon-nguyen-thuy-thumb.jpg",
-          "poster_url": "linh-hon-nguyen-thuy-poster.jpg",
-          "sub_docquyen": false,
-          "chieurap": false,
-          "time": "95 Phút",
-          "episode_current": "Full",
-          "quality": "HD",
-          "lang": "Vietsub",
-          "year": 2006,
-          "category": [
-            {
-              "id": "620a21b2e0fc277084dfd0c5",
-              "name": "Hành Động",
-              "slug": "hanh-dong"
-            },
-            {
-              "id": "620a220de0fc277084dfd16d",
-              "name": "Tình Cảm",
-              "slug": "tinh-cam"
-            },
-            {
-              "id": "620a2282e0fc277084dfd435",
-              "name": "Viễn Tưởng",
-              "slug": "vien-tuong"
-            },
-            {
-              "id": "620a2293e0fc277084dfd489",
-              "name": "Phiêu Lưu",
-              "slug": "phieu-luu"
-            },
-            {
-              "id": "620f3d2b91fa4af90ab697fe",
-              "name": "Chính kịch",
-              "slug": "chinh-kich"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a2307e0fc277084dfd726",
-              "name": "Nhật Bản",
-              "slug": "nhat-ban"
-            }
-          ]
-        },
-        {
-          "modified": {
-            "time": "2023-06-12T11:30:41.000Z"
-          },
-          "_id": "647871846231cbfdd951b89b",
-          "name": "Người Nhện: Du Hành Vũ Trụ Nhện",
-          "slug": "nguoi-nhen-du-hanh-vu-tru-nhen",
-          "origin_name": "Spider-Man: Across the Spider-Verse",
-          "type": "hoathinh",
-          "thumb_url": "nguoi-nhen-du-hanh-vu-tru-nhen-thumb.jpg",
-          "poster_url": "nguoi-nhen-du-hanh-vu-tru-nhen-poster.jpg",
-          "sub_docquyen": true,
-          "chieurap": true,
-          "time": "140 Phút",
-          "episode_current": "Full",
-          "quality": "HD",
-          "lang": "Vietsub",
-          "year": 2023,
-          "category": [
-            {
-              "id": "620a21b2e0fc277084dfd0c5",
-              "name": "Hành Động",
-              "slug": "hanh-dong"
-            },
-            {
-              "id": "620a2282e0fc277084dfd435",
-              "name": "Viễn Tưởng",
-              "slug": "vien-tuong"
-            },
-            {
-              "id": "620a2293e0fc277084dfd489",
-              "name": "Phiêu Lưu",
-              "slug": "phieu-luu"
-            },
-            {
-              "id": "620a229be0fc277084dfd4dd",
-              "name": "Khoa Học",
-              "slug": "khoa-hoc"
-            }
-          ],
-          "country": [
-            {
-              "id": "620a231fe0fc277084dfd7ce",
-              "name": "Âu Mỹ",
-              "slug": "au-my"
-            }
-          ]
-        },
-        {
-          "modified": {
-            "time": "2023-06-03T23:04:28.000Z"
-          },
-          "_id": "647830809b6b2c58a9fa9a5c",
-          "name": "Tiêu Nhân",
-          "slug": "tieu-nhan",
-          "origin_name": "Blades of the Guardians",
-          "type": "hoathinh",
-          "thumb_url": "tieu-nhan-thumb.jpg",
-          "poster_url": "tieu-nhan-poster.jpg",
-          "sub_docquyen": false,
-          "chieurap": false,
-          "time": "30 phút / tập",
-          "episode_current": "Tập 2",
-          "quality": "FHD",
-          "lang": "Vietsub",
-          "year": 2023,
-          "category": [
-            {
-              "id": "620a21b2e0fc277084dfd0c5",
-              "name": "Hành Động",
-              "slug": "hanh-dong"
-            }
-          ],
-          "country": [
-            {
-              "id": "62093063196e9f4ab6b448b8",
-              "name": "Trung Quốc",
-              "slug": "trung-quoc"
-            }
-          ]
+          "id": "621674a770b58bba6858b852",
+          "name": "Ý",
+          "slug": "y"
         }
       ]
+    },
+    {
+      "modified": {
+        "time": "2023-06-03T11:35:38.000Z"
+      },
+      "_id": "647ac31a0fba73ffd2e76f6e",
+      "name": "Thám tử động vật (Phần 3)",
+      "slug": "tham-tu-dong-vat-phan-3",
+      "origin_name": "The Creature Cases (Season 3)",
+      "type": "hoathinh",
+      "thumb_url": "tham-tu-dong-vat-phan-3-thumb.jpg",
+      "poster_url": "tham-tu-dong-vat-phan-3-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "28 phút/tập",
+      "episode_current": "Hoàn Tất (7/7)",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2023,
+      "category": [
+        {
+          "id": "620a2293e0fc277084dfd489",
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a231fe0fc277084dfd7ce",
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-06-12T11:30:41.000Z"
+      },
+      "_id": "647871846231cbfdd951b89b",
+      "name": "Người Nhện: Du Hành Vũ Trụ Nhện",
+      "slug": "nguoi-nhen-du-hanh-vu-tru-nhen",
+      "origin_name": "Spider-Man: Across the Spider-Verse",
+      "type": "hoathinh",
+      "thumb_url": "nguoi-nhen-du-hanh-vu-tru-nhen-thumb.jpg",
+      "poster_url": "nguoi-nhen-du-hanh-vu-tru-nhen-poster.jpg",
+      "sub_docquyen": true,
+      "chieurap": true,
+      "time": "140 Phút",
+      "episode_current": "Full",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2023,
+      "category": [
+        {
+          "id": "620a21b2e0fc277084dfd0c5",
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "id": "620a2282e0fc277084dfd435",
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "id": "620a2293e0fc277084dfd489",
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "id": "620a229be0fc277084dfd4dd",
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a231fe0fc277084dfd7ce",
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-06-13T15:07:38.000Z"
+      },
+      "_id": "647830809b6b2c58a9fa9a5c",
+      "name": "Tiêu Nhân",
+      "slug": "tieu-nhan",
+      "origin_name": "Blades of the Guardians",
+      "type": "hoathinh",
+      "thumb_url": "tieu-nhan-thumb.jpg",
+      "poster_url": "tieu-nhan-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "30 phút / tập",
+      "episode_current": "Tập 4",
+      "quality": "FHD",
+      "lang": "Vietsub",
+      "year": 2023,
+      "category": [
+        {
+          "id": "620a21b2e0fc277084dfd0c5",
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        }
+      ],
+      "country": [
+        {
+          "id": "62093063196e9f4ab6b448b8",
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-05-24T00:35:11.000Z"
+      },
+      "_id": "646cf94fbde31827f67d72bc",
+      "name": "Công Chúa Thiên Nga: Câu Chuyện Thần Tiên",
+      "slug": "cong-chua-thien-nga-cau-chuyen-than-tien",
+      "origin_name": "The Swan Princess: A Fairytale Is Born",
+      "type": "hoathinh",
+      "thumb_url": "cong-chua-thien-nga-cau-chuyen-than-tien-thumb.jpg",
+      "poster_url": "cong-chua-thien-nga-cau-chuyen-than-tien-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "88 Phút",
+      "episode_current": "Full",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2023,
+      "category": [
+        {
+          "id": "620e4c0b6ba8271c5eef05a8",
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a231fe0fc277084dfd7ce",
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-05-23T14:12:47.000Z"
+      },
+      "_id": "646c676f9b6b2c58a9f7af29",
+      "name": "Kiểm Lâm Linh Thú (Phần 2)",
+      "slug": "kiem-lam-linh-thu-phan-2",
+      "origin_name": "Spirit Rangers (Season 2)",
+      "type": "hoathinh",
+      "thumb_url": "kiem-lam-linh-thu-phan-2-thumb.jpg",
+      "poster_url": "kiem-lam-linh-thu-phan-2-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "25 phút/tập",
+      "episode_current": "Hoàn Tất (10/10)",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2023,
+      "category": [
+        {
+          "id": "620a22bae0fc277084dfd585",
+          "name": "Âm Nhạc",
+          "slug": "am-nhac"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a231fe0fc277084dfd7ce",
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-05-20T01:20:46.000Z"
+      },
+      "_id": "6467bdfe9b6b2c58a9f6a025",
+      "name": "Yakitori: Những chiến binh cảm tử",
+      "slug": "yakitori-nhung-chien-binh-cam-tu",
+      "origin_name": "Yakitori: Soldiers of Misfortune",
+      "type": "hoathinh",
+      "thumb_url": "yakitori-nhung-chien-binh-cam-tu-thumb.jpg",
+      "poster_url": "yakitori-nhung-chien-binh-cam-tu-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "45 phút/tập",
+      "episode_current": "Hoàn Tất (6/6)",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2023,
+      "category": [
+        {
+          "id": "620a21b2e0fc277084dfd0c5",
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "id": "620a2282e0fc277084dfd435",
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "id": "620a229be0fc277084dfd4dd",
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a2307e0fc277084dfd726",
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-05-20T01:19:36.000Z"
+      },
+      "_id": "6467bdb86231cbfdd94da2c4",
+      "name": "Kitti Katz",
+      "slug": "kitti-katz",
+      "origin_name": "Kitti Katz",
+      "type": "hoathinh",
+      "thumb_url": "kitti-katz-thumb.jpg",
+      "poster_url": "kitti-katz-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "28 phút/tập",
+      "episode_current": "Hoàn Tất (10/10)",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2023,
+      "category": [
+        {
+          "id": "620a2293e0fc277084dfd489",
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a231fe0fc277084dfd7ce",
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-05-17T00:52:29.000Z"
+      },
+      "_id": "6463c2dd0fba73ffd2e1b46f",
+      "name": "LEGO Dreamzzz",
+      "slug": "lego-dreamzzz",
+      "origin_name": "LEGO Dreamzzz",
+      "type": "hoathinh",
+      "thumb_url": "lego-dreamzzz-thumb.jpg",
+      "poster_url": "lego-dreamzzz-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "22 phút/tập",
+      "episode_current": "Hoàn Tất (10/10)",
+      "quality": "HD",
+      "lang": "Thuyết Minh",
+      "year": 2023,
+      "category": [
+        {
+          "id": "620e4c0b6ba8271c5eef05a8",
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a231fe0fc277084dfd7ce",
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-05-13T13:37:52.000Z"
+      },
+      "_id": "645f3040119a8f27d3c34987",
+      "name": "Mulligan",
+      "slug": "mulligan",
+      "origin_name": "Mulligan",
+      "type": "hoathinh",
+      "thumb_url": "mulligan-thumb.jpg",
+      "poster_url": "mulligan-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "27 phút/tập",
+      "episode_current": "Hoàn Tất (10/10)",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2023,
+      "category": [
+        {
+          "id": "620a221de0fc277084dfd1c1",
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a231fe0fc277084dfd7ce",
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-05-12T01:33:39.000Z"
+      },
+      "_id": "645d35039b6b2c58a9f3ed1a",
+      "name": "Ultraman (Phần 3)",
+      "slug": "ultraman-phan-3",
+      "origin_name": "Ultraman (Season 3)",
+      "type": "hoathinh",
+      "thumb_url": "ultraman-phan-3-thumb.jpg",
+      "poster_url": "ultraman-phan-3-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "23 phút/tập",
+      "episode_current": "Hoàn Tất (12/12)",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2023,
+      "category": [
+        {
+          "id": "620a21b2e0fc277084dfd0c5",
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "id": "620a2282e0fc277084dfd435",
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "id": "620a2293e0fc277084dfd489",
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "id": "620a229be0fc277084dfd4dd",
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a2307e0fc277084dfd726",
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        },
+        {
+          "id": "620a231fe0fc277084dfd7ce",
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-05-05T12:08:37.000Z"
+      },
+      "_id": "64548f55e8012b52ca4a6404",
+      "name": "Gia đình ấu trùng",
+      "slug": "gia-dinh-au-trung",
+      "origin_name": "Larva Family",
+      "type": "hoathinh",
+      "thumb_url": "gia-dinh-au-trung-thumb.jpg",
+      "poster_url": "gia-dinh-au-trung-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "19 phút/tập",
+      "episode_current": "Hoàn Tất (9/9)",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2023,
+      "category": [
+        {
+          "id": "620a2293e0fc277084dfd489",
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a2300e0fc277084dfd6d2",
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-05-16T15:05:30.000Z"
+      },
+      "_id": "644f768f458845f74f634fe9",
+      "name": "Đấu Phá Thương Khung Hẹn Ước Ba Năm",
+      "slug": "dau-pha-thuong-khung-hen-uoc-ba-nam",
+      "origin_name": "Fights Break Sphere Special 3: Three Years of Pledge",
+      "type": "hoathinh",
+      "thumb_url": "dau-pha-thuong-khung-hen-uoc-ba-nam-thumb.jpg",
+      "poster_url": "dau-pha-thuong-khung-hen-uoc-ba-nam-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "22 phút/tập",
+      "episode_current": "Hoàn Tất (13/13)",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2023,
+      "category": [
+        {
+          "id": "620a2293e0fc277084dfd489",
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "id": "620a2279e0fc277084dfd3e1",
+          "name": "Võ Thuật",
+          "slug": "vo-thuat"
+        },
+        {
+          "id": "620a222fe0fc277084dfd23d",
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "id": "620a21b2e0fc277084dfd0c5",
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        }
+      ],
+      "country": [
+        {
+          "id": "62093063196e9f4ab6b448b8",
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-06-13T16:12:11.000Z"
+      },
+      "_id": "644f757ed95ac616c32b8c56",
+      "name": "Đấu Phá Thương Khung Ngoại Truyện",
+      "slug": "dau-pha-thuong-khung-ngoai-truyen",
+      "origin_name": "Fights Break Sphere S5",
+      "type": "hoathinh",
+      "thumb_url": "dau-pha-thuong-khung-ngoai-truyen-thumb.jpg",
+      "poster_url": "dau-pha-thuong-khung-ngoai-truyen-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "25 phút/tập",
+      "episode_current": "Tập 47",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2023,
+      "category": [
+        {
+          "id": "620a21b2e0fc277084dfd0c5",
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "id": "620a222fe0fc277084dfd23d",
+          "name": "Cổ Trang",
+          "slug": "co-trang"
+        },
+        {
+          "id": "620a2279e0fc277084dfd3e1",
+          "name": "Võ Thuật",
+          "slug": "vo-thuat"
+        },
+        {
+          "id": "620a2293e0fc277084dfd489",
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "country": [
+        {
+          "id": "62093063196e9f4ab6b448b8",
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-06-11T10:08:59.000Z"
+      },
+      "_id": "644f5278595a05e9202dfc14",
+      "name": "Mashle: Magic and Muscles",
+      "slug": "mashle-magic-and-muscles",
+      "origin_name": "Mashle: Magic and Muscles",
+      "type": "hoathinh",
+      "thumb_url": "mashle-magic-and-muscles-thumb.jpg",
+      "poster_url": "mashle-magic-and-muscles-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "24 phút/tập",
+      "episode_current": "Tập 9",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2023,
+      "category": [
+        {
+          "id": "620a21b2e0fc277084dfd0c5",
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "id": "620a221de0fc277084dfd1c1",
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "id": "620a2282e0fc277084dfd435",
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "id": "620a2293e0fc277084dfd489",
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "id": "620a229be0fc277084dfd4dd",
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a2307e0fc277084dfd726",
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-06-12T17:58:12.000Z"
+      },
+      "_id": "644f3d0ed95ac616c32b7be0",
+      "name": "Thanh gươm diệt quỷ (Phần 4) - Phần Làng rèn kiếm",
+      "slug": "thanh-guom-diet-quy-phan-4-phan-lang-ren-kiem",
+      "origin_name": "Demon Slayer: Kimetsu no Yaiba (Season 4)",
+      "type": "hoathinh",
+      "thumb_url": "thanh-guom-diet-quy-phan-4-phan-lang-ren-kiem-thumb.jpg",
+      "poster_url": "thanh-guom-diet-quy-phan-4-phan-lang-ren-kiem-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "23 phút/tập",
+      "episode_current": "Tập 10",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2023,
+      "category": [
+        {
+          "id": "620a21b2e0fc277084dfd0c5",
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a2307e0fc277084dfd726",
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-04-28T00:33:48.000Z"
+      },
+      "_id": "644ab1fc595a05e9202d4f78",
+      "name": "Oggy Oggy (Phần 2)",
+      "slug": "oggy-oggy-phan-2",
+      "origin_name": "Oggy Oggy (Season 2)",
+      "type": "hoathinh",
+      "thumb_url": "oggy-oggy-phan-2-thumb.jpg",
+      "poster_url": "oggy-oggy-phan-2-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "22 phút/tập",
+      "episode_current": "Hoàn Tất (13/13)",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2023,
+      "category": [
+        {
+          "id": "620a2293e0fc277084dfd489",
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a231fe0fc277084dfd7ce",
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-04-28T00:32:27.000Z"
+      },
+      "_id": "644ab1abd95ac616c32adad4",
+      "name": "Nhà khoa học nhí Ada Twist (Phần 4)",
+      "slug": "nha-khoa-hoc-nhi-ada-twist-phan-4",
+      "origin_name": "Ada Twist, Scientist (Season 4)",
+      "type": "hoathinh",
+      "thumb_url": "nha-khoa-hoc-nhi-ada-twist-phan-4-thumb.jpg",
+      "poster_url": "nha-khoa-hoc-nhi-ada-twist-phan-4-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "29 phút/tập",
+      "episode_current": "Hoàn Tất (19/19)",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2023,
+      "category": [
+        {
+          "id": "620a2293e0fc277084dfd489",
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a231fe0fc277084dfd7ce",
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-06-12T00:28:05.000Z"
+      },
+      "_id": "643c176c06956a473bb335f3",
+      "name": "Biên Niên Sử Quý Tộc Tái Sinh Ở Thế Giới Khác",
+      "slug": "bien-nien-su-quy-toc-tai-sinh-o-the-gioi-khac",
+      "origin_name": "転生貴族の異世界冒険録～自重を知らない神々の使途～転生貴族の異世界冒険録～自重を知らない神々の使途～",
+      "type": "hoathinh",
+      "thumb_url": "bien-nien-su-quy-toc-tai-sinh-o-the-gioi-khac-thumb.jpg",
+      "poster_url": "bien-nien-su-quy-toc-tai-sinh-o-the-gioi-khac-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "24 phút/tập",
+      "episode_current": "Tập 11",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2023,
+      "category": [
+        {
+          "id": "620a221de0fc277084dfd1c1",
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a2307e0fc277084dfd726",
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-04-22T00:21:07.000Z"
+      },
+      "_id": "643975b6bc6d4cc9c4b3f7a2",
+      "name": "Khủng Hoảng Quá Dễ Thương",
+      "slug": "khung-hoang-qua-de-thuong",
+      "origin_name": "カワイスギクライシス",
+      "type": "hoathinh",
+      "thumb_url": "khung-hoang-qua-de-thuong-thumb.jpg",
+      "poster_url": "khung-hoang-qua-de-thuong-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "24 phút/tập",
+      "episode_current": "Tập 1",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2023,
+      "category": [
+        {
+          "id": "620a221de0fc277084dfd1c1",
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "id": "620a2282e0fc277084dfd435",
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a2307e0fc277084dfd726",
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-06-09T15:06:15.000Z"
+      },
+      "_id": "6439170d06956a473bb23ea5",
+      "name": "Xếp Hạng Của Các Vị Vua: Chiếc Rương Của Lòng Dũng Cảm",
+      "slug": "ranking-of-kings-the-treasure-chest-of-courage",
+      "origin_name": "Ranking of Kings: The Treasure Chest of Courage",
+      "type": "hoathinh",
+      "thumb_url": "ranking-of-kings-the-treasure-chest-of-courage-thumb.jpg",
+      "poster_url": "ranking-of-kings-the-treasure-chest-of-courage-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "22 phút/tập",
+      "episode_current": "Tập 9",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2023,
+      "category": [
+        {
+          "id": "620a2293e0fc277084dfd489",
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a2307e0fc277084dfd726",
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-04-14T16:01:38.000Z"
+      },
+      "_id": "6439167206956a473bb23e2b",
+      "name": "Phòng Bí Mật Của Ái U",
+      "slug": "phong-bi-mat-cua-ai-u",
+      "origin_name": "爱幽的密室",
+      "type": "hoathinh",
+      "thumb_url": "phong-bi-mat-cua-ai-u-thumb.jpg",
+      "poster_url": "phong-bi-mat-cua-ai-u-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "16 phút/tập",
+      "episode_current": "Tập 2",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2023,
+      "category": [
+        {
+          "id": "620a2238e0fc277084dfd291",
+          "name": "Tâm Lý",
+          "slug": "tam-ly"
+        },
+        {
+          "id": "620a22ace0fc277084dfd531",
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        },
+        {
+          "id": "620a2249e0fc277084dfd2e5",
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "country": [
+        {
+          "id": "62093063196e9f4ab6b448b8",
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-06-08T01:16:42.000Z"
+      },
+      "_id": "6436df0a06956a473bb1b692",
+      "name": "Đứa Con Của Thần Tượng",
+      "slug": "dua-con-cua-than-tuong",
+      "origin_name": "推しの子",
+      "type": "hoathinh",
+      "thumb_url": "dua-con-cua-than-tuong-thumb.jpg",
+      "poster_url": "dua-con-cua-than-tuong-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "82 phút/tập",
+      "episode_current": "Tập 8",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2023,
+      "category": [
+        {
+          "id": "620a22bae0fc277084dfd585",
+          "name": "Âm Nhạc",
+          "slug": "am-nhac"
+        },
+        {
+          "id": "620a220de0fc277084dfd16d",
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a2307e0fc277084dfd726",
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-06-12T23:45:16.000Z"
+      },
+      "_id": "6434420a4f963f302bc695ae",
+      "name": "DEAD MOUNT DEATH PLAY",
+      "slug": "dead-mount-death-play",
+      "origin_name": "デッドマウント・デスプレイ",
+      "type": "hoathinh",
+      "thumb_url": "dead-mount-death-play-thumb.jpg",
+      "poster_url": "dead-mount-death-play-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "24 phút/tập",
+      "episode_current": "Tập 10",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2023,
+      "category": [
+        {
+          "id": "620a21b2e0fc277084dfd0c5",
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "id": "620a22ace0fc277084dfd531",
+          "name": "Kinh Dị",
+          "slug": "kinh-di"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a2307e0fc277084dfd726",
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-06-13T12:36:28.000Z"
+      },
+      "_id": "6488005a9b6b2c58a9ff9e0e",
+      "name": "Cuộc Phiêu Lưu Của Chú Rùa Sammy 2: Thoát Khỏi Thiên Đường",
+      "slug": "cuoc-phieu-luu-cua-chu-rua-sammy-2-thoat-khoi-thien-duong",
+      "origin_name": "A Turtle's Tale 2: Sammy's Escape from Paradise",
+      "type": "hoathinh",
+      "thumb_url": "cuoc-phieu-luu-cua-chu-rua-sammy-2-thoat-khoi-thien-duong-thumb.jpg",
+      "poster_url": "cuoc-phieu-luu-cua-chu-rua-sammy-2-thoat-khoi-thien-duong-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "92 Phút",
+      "episode_current": "Full",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2012,
+      "category": [
+        {
+          "id": "620a2293e0fc277084dfd489",
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a231fe0fc277084dfd7ce",
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-06-13T12:13:54.000Z"
+      },
+      "_id": "6487fb10bde31827f6851ba3",
+      "name": "Hành Tinh 51",
+      "slug": "hanh-tinh-51",
+      "origin_name": "Planet 51",
+      "type": "hoathinh",
+      "thumb_url": "hanh-tinh-51-thumb.jpg",
+      "poster_url": "hanh-tinh-51-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "91 Phút",
+      "episode_current": "Full",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2009,
+      "category": [
+        {
+          "id": "620a221de0fc277084dfd1c1",
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "id": "620a2282e0fc277084dfd435",
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "id": "620a2293e0fc277084dfd489",
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "id": "620e4c0b6ba8271c5eef05a8",
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a231fe0fc277084dfd7ce",
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-06-12T10:58:09.000Z"
+      },
+      "_id": "648697cd0fba73ffd2eb44da",
+      "name": "Giai Điệu Thiên Niên Kỷ 2000",
+      "slug": "giai-dieu-thien-nien-ky-2000",
+      "origin_name": "Fantasia 2000",
+      "type": "hoathinh",
+      "thumb_url": "giai-dieu-thien-nien-ky-2000-thumb.jpg",
+      "poster_url": "giai-dieu-thien-nien-ky-2000-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "74 Phút",
+      "episode_current": "Full",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 1999,
+      "category": [
+        {
+          "id": "620a22bae0fc277084dfd585",
+          "name": "Âm Nhạc",
+          "slug": "am-nhac"
+        },
+        {
+          "id": "620e4c0b6ba8271c5eef05a8",
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a231fe0fc277084dfd7ce",
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-06-12T10:18:59.000Z"
+      },
+      "_id": "64868ea1119a8f27d3cde962",
+      "name": "Niko 2- Giáng Sinh Phiêu Lưu Ký",
+      "slug": "niko-2-giang-sinh-phieu-luu-ky",
+      "origin_name": "Niko 2: Little Brother, Big Trouble",
+      "type": "hoathinh",
+      "thumb_url": "niko-2-giang-sinh-phieu-luu-ky-thumb.jpg",
+      "poster_url": "niko-2-giang-sinh-phieu-luu-ky-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "79 Phút",
+      "episode_current": "Full",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2012,
+      "category": [
+        {
+          "id": "620a221de0fc277084dfd1c1",
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        },
+        {
+          "id": "620a2293e0fc277084dfd489",
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "id": "620e4c0b6ba8271c5eef05a8",
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a2398e0fc277084dfda1a",
+          "name": "Quốc Gia Khác",
+          "slug": "quoc-gia-khac"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-06-11T10:41:59.000Z"
+      },
+      "_id": "648542869b6b2c58a9fed229",
+      "name": "Dạo Bước Cùng Khủng Long",
+      "slug": "dao-buoc-cung-khung-long",
+      "origin_name": "Walking with Dinosaurs 3D",
+      "type": "hoathinh",
+      "thumb_url": "dao-buoc-cung-khung-long-thumb.jpg",
+      "poster_url": "dao-buoc-cung-khung-long-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "87 Phút",
+      "episode_current": "Full",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2013,
+      "category": [
+        {
+          "id": "620a2293e0fc277084dfd489",
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "id": "620e4c0b6ba8271c5eef05a8",
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a231fe0fc277084dfd7ce",
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-06-10T10:22:06.000Z"
+      },
+      "_id": "6483ec5c0fba73ffd2ea5c4e",
+      "name": "Khủng Long Đại Chiến",
+      "slug": "khung-long-dai-chien",
+      "origin_name": "Speckles: The Tarbosaurus",
+      "type": "hoathinh",
+      "thumb_url": "khung-long-dai-chien-thumb.jpg",
+      "poster_url": "khung-long-dai-chien-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "88 Phút",
+      "episode_current": "Full",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2012,
+      "category": [
+        {
+          "id": "620a2282e0fc277084dfd435",
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "id": "620a2293e0fc277084dfd489",
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a2300e0fc277084dfd6d2",
+          "name": "Hàn Quốc",
+          "slug": "han-quoc"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-06-10T12:01:38.000Z"
+      },
+      "_id": "648365000fba73ffd2ea440b",
+      "name": "Thế giới này không thể tha hóa tôi",
+      "slug": "the-gioi-nay-khong-the-tha-hoa-toi",
+      "origin_name": "This World Can't Tear Me Down",
+      "type": "hoathinh",
+      "thumb_url": "the-gioi-nay-khong-the-tha-hoa-toi-thumb.jpg",
+      "poster_url": "the-gioi-nay-khong-the-tha-hoa-toi-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "30 phút/tập",
+      "episode_current": "Hoàn Tất (6/6)",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2023,
+      "category": [
+        {
+          "id": "620f3d2b91fa4af90ab697fe",
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a2370e0fc277084dfd91e",
+          "name": "Anh",
+          "slug": "anh"
+        },
+        {
+          "id": "621674a770b58bba6858b852",
+          "name": "Ý",
+          "slug": "y"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-06-09T08:26:30.000Z"
+      },
+      "_id": "64827fc40fba73ffd2e9e3a8",
+      "name": "Chiến Binh Lồng Đèn Xanh: Hiệp Sĩ Ngọc Bích",
+      "slug": "chien-binh-long-den-xanh-hiep-si-ngoc-bich",
+      "origin_name": "Green Lantern: Emerald Knights",
+      "type": "hoathinh",
+      "thumb_url": "chien-binh-long-den-xanh-hiep-si-ngoc-bich-thumb.jpg",
+      "poster_url": "chien-binh-long-den-xanh-hiep-si-ngoc-bich-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "84 Phút",
+      "episode_current": "Full",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2011,
+      "category": [
+        {
+          "id": "620a21b2e0fc277084dfd0c5",
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "id": "620a2282e0fc277084dfd435",
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "id": "620a2293e0fc277084dfd489",
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "id": "620f3d2b91fa4af90ab697fe",
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a231fe0fc277084dfd7ce",
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-06-09T02:14:28.000Z"
+      },
+      "_id": "648228949b6b2c58a9fdb505",
+      "name": "Tsukiuta. The Animation",
+      "slug": "tsukiuta-the-animation",
+      "origin_name": "Tsukiuta. The Animation",
+      "type": "hoathinh",
+      "thumb_url": "tsukiuta-the-animation-thumb.jpg",
+      "poster_url": "tsukiuta-the-animation-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "24 phút/tập",
+      "episode_current": "Hoàn Tất (13/13)",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2016,
+      "category": [
+        {
+          "id": "620a2293e0fc277084dfd489",
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a2307e0fc277084dfd726",
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-06-09T02:15:12.000Z"
+      },
+      "_id": "64822849119a8f27d3cc7cbd",
+      "name": "To Be Hero",
+      "slug": "to-be-hero",
+      "origin_name": "To Be Hero",
+      "type": "hoathinh",
+      "thumb_url": "to-be-hero-thumb.jpg",
+      "poster_url": "to-be-hero-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "11 phút/tập",
+      "episode_current": "Hoàn Tất (12/12)",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2016,
+      "category": [
+        {
+          "id": "620a221de0fc277084dfd1c1",
+          "name": "Hài Hước",
+          "slug": "hai-huoc"
+        }
+      ],
+      "country": [
+        {
+          "id": "62093063196e9f4ab6b448b8",
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        },
+        {
+          "id": "620a2307e0fc277084dfd726",
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-06-09T02:12:40.000Z"
+      },
+      "_id": "64822828bde31827f6834214",
+      "name": "Tales of Zestiria the X",
+      "slug": "tales-of-zestiria-the-x",
+      "origin_name": "Tales of Zestiria the X",
+      "type": "hoathinh",
+      "thumb_url": "tales-of-zestiria-the-x-thumb.jpg",
+      "poster_url": "tales-of-zestiria-the-x-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "23 phút/tập",
+      "episode_current": "Hoàn Tất (13/13)",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2016,
+      "category": [
+        {
+          "id": "620a2282e0fc277084dfd435",
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "id": "620a229be0fc277084dfd4dd",
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a2307e0fc277084dfd726",
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-06-09T02:10:18.000Z"
+      },
+      "_id": "6482279a6231cbfdd954abce",
+      "name": "Tabi Machi Late Show",
+      "slug": "tabi-machi-late-show",
+      "origin_name": "Tabi Machi Late Show",
+      "type": "hoathinh",
+      "thumb_url": "tabi-machi-late-show-thumb.jpg",
+      "poster_url": "tabi-machi-late-show-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "7 phút/tập",
+      "episode_current": "Hoàn Tất (4/4)",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2016,
+      "category": [
+        {
+          "id": "620a2293e0fc277084dfd489",
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a2307e0fc277084dfd726",
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-06-09T02:09:20.000Z"
+      },
+      "_id": "648227600fba73ffd2e9cbaf",
+      "name": "Poco ở thế giới Udon",
+      "slug": "poco-o-the-gioi-udon",
+      "origin_name": "Poco's Udon World",
+      "type": "hoathinh",
+      "thumb_url": "poco-o-the-gioi-udon-thumb.jpg",
+      "poster_url": "poco-o-the-gioi-udon-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "23 phút/tập",
+      "episode_current": "Hoàn Tất (12/12)",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2016,
+      "category": [
+        {
+          "id": "620a2293e0fc277084dfd489",
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a2307e0fc277084dfd726",
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-06-09T02:08:19.000Z"
+      },
+      "_id": "64822723bde31827f6833eff",
+      "name": "Sushi Police",
+      "slug": "sushi-police",
+      "origin_name": "Sushi Police",
+      "type": "hoathinh",
+      "thumb_url": "sushi-police-thumb.jpg",
+      "poster_url": "sushi-police-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "4 phút/tập",
+      "episode_current": "Hoàn Tất (13/13)",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2016,
+      "category": [
+        {
+          "id": "620a2293e0fc277084dfd489",
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a2307e0fc277084dfd726",
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-06-07T11:22:57.000Z"
+      },
+      "_id": "64800620119a8f27d3cbad9c",
+      "name": "Lupin the Third vs. Detective Conan: The Movie",
+      "slug": "lupin-the-third-vs-detective-conan-the-movie",
+      "origin_name": "Lupin Đệ Tam và Thám Tử Lừng Danh Conan",
+      "type": "hoathinh",
+      "thumb_url": "lupin-the-third-vs-detective-conan-the-movie-thumb.jpg",
+      "poster_url": "lupin-the-third-vs-detective-conan-the-movie-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "106 Phút",
+      "episode_current": "Full",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2013,
+      "category": [
+        {
+          "id": "620a21b2e0fc277084dfd0c5",
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "id": "620f84d291fa4af90ab6b3f4",
+          "name": "Bí ẩn",
+          "slug": "bi-an"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a2307e0fc277084dfd726",
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-06-06T00:11:33.000Z"
+      },
+      "_id": "647e11c06a30601d556dac98",
+      "name": "Doraemon: Nobita và Binh Đoàn Người Sắt",
+      "slug": "doraemon-nobita-va-binh-doan-nguoi-sat",
+      "origin_name": "Doraemon: Nobita and the New Steel Troops: Angel Wings",
+      "type": "hoathinh",
+      "thumb_url": "doraemon-nobita-va-binh-doan-nguoi-sat-thumb.jpg",
+      "poster_url": "doraemon-nobita-va-binh-doan-nguoi-sat-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "108 Phút",
+      "episode_current": "Full",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2011,
+      "category": [
+        {
+          "id": "620a2282e0fc277084dfd435",
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "id": "620a2293e0fc277084dfd489",
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "id": "620e4c0b6ba8271c5eef05a8",
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a2307e0fc277084dfd726",
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-06-06T00:11:36.000Z"
+      },
+      "_id": "647e11560fba73ffd2e86fec",
+      "name": "Doraemon: Nobita và Cuộc Đại Thủy Chiến Ở Xứ Sở Người Cá",
+      "slug": "doraemon-nobita-va-cuoc-dai-thuy-chien-o-xu-so-nguoi-ca",
+      "origin_name": "Doraemon the Movie: Nobita's Mermaid Legend",
+      "type": "hoathinh",
+      "thumb_url": "doraemon-nobita-va-cuoc-dai-thuy-chien-o-xu-so-nguoi-ca-thumb.jpg",
+      "poster_url": "doraemon-nobita-va-cuoc-dai-thuy-chien-o-xu-so-nguoi-ca-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "100 Phút",
+      "episode_current": "Full",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2010,
+      "category": [
+        {
+          "id": "620a2293e0fc277084dfd489",
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "id": "620e4c0b6ba8271c5eef05a8",
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a2307e0fc277084dfd726",
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-06-04T18:45:59.000Z"
+      },
+      "_id": "647c79759b6b2c58a9fbd947",
+      "name": "Siêu Nhân và Người Dơi: Khải Huyền",
+      "slug": "sieu-nhan-va-nguoi-doi-khai-huyen",
+      "origin_name": "Superman Batman: Apocalypse",
+      "type": "hoathinh",
+      "thumb_url": "sieu-nhan-va-nguoi-doi-khai-huyen-thumb.jpg",
+      "poster_url": "sieu-nhan-va-nguoi-doi-khai-huyen-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "78 Phút",
+      "episode_current": "Full",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2010,
+      "category": [
+        {
+          "id": "620a21b2e0fc277084dfd0c5",
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "id": "620a2282e0fc277084dfd435",
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "id": "620a2293e0fc277084dfd489",
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "id": "620e4c0b6ba8271c5eef05a8",
+          "name": "Gia Đình",
+          "slug": "gia-dinh"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a231fe0fc277084dfd7ce",
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-06-04T18:42:24.000Z"
+      },
+      "_id": "647c789ebde31827f6816611",
+      "name": "Bất Thường Tại Trường Phép Thuật- Cô Gái Triệu Hồi Những Vì Sao",
+      "slug": "bat-thuong-tai-truong-phep-thuat-co-gai-trieu-hoi-nhung-vi-sao",
+      "origin_name": "The Irregular at Magic High School: The Girl Who Summons the Stars",
+      "type": "hoathinh",
+      "thumb_url": "bat-thuong-tai-truong-phep-thuat-co-gai-trieu-hoi-nhung-vi-sao-thumb.jpg",
+      "poster_url": "bat-thuong-tai-truong-phep-thuat-co-gai-trieu-hoi-nhung-vi-sao-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "90 Phút",
+      "episode_current": "Full",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2017,
+      "category": [
+        {
+          "id": "620a21b2e0fc277084dfd0c5",
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "id": "620a2282e0fc277084dfd435",
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a2307e0fc277084dfd726",
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-06-03T11:35:38.000Z"
+      },
+      "_id": "647ac31a0fba73ffd2e76f6e",
+      "name": "Thám tử động vật (Phần 3)",
+      "slug": "tham-tu-dong-vat-phan-3",
+      "origin_name": "The Creature Cases (Season 3)",
+      "type": "hoathinh",
+      "thumb_url": "tham-tu-dong-vat-phan-3-thumb.jpg",
+      "poster_url": "tham-tu-dong-vat-phan-3-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "28 phút/tập",
+      "episode_current": "Hoàn Tất (7/7)",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2023,
+      "category": [
+        {
+          "id": "620a2293e0fc277084dfd489",
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a231fe0fc277084dfd7ce",
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-06-02T19:55:38.000Z"
+      },
+      "_id": "6479e6c96a30601d556c8886",
+      "name": "Phiêu Lưu Ngoài Không Gian",
+      "slug": "phieu-luu-ngoai-khong-gian",
+      "origin_name": "Welcome to the Space Show",
+      "type": "hoathinh",
+      "thumb_url": "phieu-luu-ngoai-khong-gian-thumb.jpg",
+      "poster_url": "phieu-luu-ngoai-khong-gian-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "136 Phút",
+      "episode_current": "Full",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2010,
+      "category": [
+        {
+          "id": "620a2282e0fc277084dfd435",
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a2307e0fc277084dfd726",
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-06-02T08:31:04.000Z"
+      },
+      "_id": "647946576a30601d556c3913",
+      "name": "Linh Hồn Nguyên Thủy",
+      "slug": "linh-hon-nguyen-thuy",
+      "origin_name": "Origin: Spirits of the Past",
+      "type": "hoathinh",
+      "thumb_url": "linh-hon-nguyen-thuy-thumb.jpg",
+      "poster_url": "linh-hon-nguyen-thuy-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "95 Phút",
+      "episode_current": "Full",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2006,
+      "category": [
+        {
+          "id": "620a21b2e0fc277084dfd0c5",
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "id": "620a220de0fc277084dfd16d",
+          "name": "Tình Cảm",
+          "slug": "tinh-cam"
+        },
+        {
+          "id": "620a2282e0fc277084dfd435",
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "id": "620a2293e0fc277084dfd489",
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "id": "620f3d2b91fa4af90ab697fe",
+          "name": "Chính kịch",
+          "slug": "chinh-kich"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a2307e0fc277084dfd726",
+          "name": "Nhật Bản",
+          "slug": "nhat-ban"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-06-12T11:30:41.000Z"
+      },
+      "_id": "647871846231cbfdd951b89b",
+      "name": "Người Nhện: Du Hành Vũ Trụ Nhện",
+      "slug": "nguoi-nhen-du-hanh-vu-tru-nhen",
+      "origin_name": "Spider-Man: Across the Spider-Verse",
+      "type": "hoathinh",
+      "thumb_url": "nguoi-nhen-du-hanh-vu-tru-nhen-thumb.jpg",
+      "poster_url": "nguoi-nhen-du-hanh-vu-tru-nhen-poster.jpg",
+      "sub_docquyen": true,
+      "chieurap": true,
+      "time": "140 Phút",
+      "episode_current": "Full",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2023,
+      "category": [
+        {
+          "id": "620a21b2e0fc277084dfd0c5",
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "id": "620a2282e0fc277084dfd435",
+          "name": "Viễn Tưởng",
+          "slug": "vien-tuong"
+        },
+        {
+          "id": "620a2293e0fc277084dfd489",
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        },
+        {
+          "id": "620a229be0fc277084dfd4dd",
+          "name": "Khoa Học",
+          "slug": "khoa-hoc"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a231fe0fc277084dfd7ce",
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ]
+    },
+    {
+      "modified": {
+        "time": "2023-06-03T23:04:28.000Z"
+      },
+      "_id": "647830809b6b2c58a9fa9a5c",
+      "name": "Tiêu Nhân",
+      "slug": "tieu-nhan",
+      "origin_name": "Blades of the Guardians",
+      "type": "hoathinh",
+      "thumb_url": "tieu-nhan-thumb.jpg",
+      "poster_url": "tieu-nhan-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "30 phút / tập",
+      "episode_current": "Tập 2",
+      "quality": "FHD",
+      "lang": "Vietsub",
+      "year": 2023,
+      "category": [
+        {
+          "id": "620a21b2e0fc277084dfd0c5",
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        }
+      ],
+      "country": [
+        {
+          "id": "62093063196e9f4ab6b448b8",
+          "name": "Trung Quốc",
+          "slug": "trung-quoc"
+        }
+      ]
+    }
+  ]
 }

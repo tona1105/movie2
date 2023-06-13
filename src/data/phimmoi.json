@@ -2,6 +2,196 @@
   "items": [
     {
       "modified": {
+        "time": "2023-03-31T17:58:18.000Z"
+      },
+      "_id": "620f7ccc91fa4af90ab6a80b",
+      "name": "Sát thủ John Wick",
+      "origin_name": "John Wick",
+      "type": "single",
+      "thumb_url": "sat-thu-john-wick-thumb.jpg",
+      "time": "1g 41ph",
+      "episode_current": "Full",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "slug": "sat-thu-john-wick",
+      "year": 2014,
+      "category": [
+        {
+          "id": "620a21b2e0fc277084dfd0c5",
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "id": "620a2293e0fc277084dfd489",
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a231fe0fc277084dfd7ce",
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ],
+      "chieurap": false,
+      "poster_url": "sat-thu-john-wick-poster.jpg",
+      "sub_docquyen": false,
+      "score": 2.625
+    },
+    {
+      "modified": {
+        "time": "2022-04-04T08:48:39.997Z"
+      },
+      "_id": "624ab0e7c78eb57bbfe4408f",
+      "name": "Sát Thủ John Wick 2",
+      "origin_name": "John Wick 2",
+      "type": "single",
+      "thumb_url": "sat-thu-john-wick-2-thumb.jpg",
+      "time": "122 phút",
+      "episode_current": "Full",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "slug": "sat-thu-john-wick-2",
+      "year": 2017,
+      "category": [
+        {
+          "id": "620a21b2e0fc277084dfd0c5",
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a231fe0fc277084dfd7ce",
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ],
+      "chieurap": false,
+      "poster_url": "",
+      "sub_docquyen": false,
+      "score": 2.466666666666667
+    },
+    {
+      "modified": {
+        "time": "2023-05-23T16:01:27.000Z"
+      },
+      "_id": "642448be54695c9785d40b1f",
+      "name": "Sát Thủ John Wick: Phần 4",
+      "slug": "sat-thu-john-wick-phan-4",
+      "origin_name": "John Wick: Chapter 4",
+      "type": "single",
+      "thumb_url": "sat-thu-john-wick-phan-4-thumb.jpg",
+      "poster_url": "sat-thu-john-wick-phan-4-poster.jpg",
+      "sub_docquyen": false,
+      "chieurap": false,
+      "time": "169 Phút",
+      "episode_current": "Full",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2023,
+      "category": [
+        {
+          "id": "620a21b2e0fc277084dfd0c5",
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "id": "620a2249e0fc277084dfd2e5",
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a231fe0fc277084dfd7ce",
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ],
+      "score": 2.3750000000000004
+    },
+    {
+      "modified": {
+        "time": "2023-01-14T01:13:29.000Z"
+      },
+      "_id": "627127e63a2c0c6289ba5b5d",
+      "name": "Sát Thủ John Wick 3: Chuẩn Bị Chiến Tranh",
+      "origin_name": "John Wick: Chapter 3 – Parabellum",
+      "type": "single",
+      "thumb_url": "sat-thu-john-wick-3-chuan-bi-chien-tranh-thumb.jpg",
+      "sub_docquyen": false,
+      "time": "",
+      "episode_current": "Full",
+      "quality": "FHD",
+      "lang": "Vietsub",
+      "slug": "sat-thu-john-wick-3-chuan-bi-chien-tranh",
+      "year": 2019,
+      "category": [
+        {
+          "id": "620a2249e0fc277084dfd2e5",
+          "name": "Hình Sự",
+          "slug": "hinh-su"
+        },
+        {
+          "id": "620a2279e0fc277084dfd3e1",
+          "name": "Võ Thuật",
+          "slug": "vo-thuat"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a231fe0fc277084dfd7ce",
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ],
+      "chieurap": false,
+      "poster_url": "sat-thu-john-wick-3-chuan-bi-chien-tranh-poster.jpg",
+      "score": 2.2666666666666666
+    },
+    {
+      "modified": {
+        "time": "2023-04-19T12:44:49.000Z"
+      },
+      "_id": "6220d3da8481266c5b7f0676",
+      "name": "Sát thủ John Wick: Phần 3 – Chuẩn bị chiến tranh",
+      "origin_name": "John Wick: Chapter 3 - Parabellum",
+      "type": "single",
+      "thumb_url": "sat-thu-john-wick-phan-3-chuan-bi-chien-tranh-thumb.jpg",
+      "time": "2g 10ph",
+      "episode_current": "Full",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "slug": "sat-thu-john-wick-phan-3-chuan-bi-chien-tranh",
+      "year": 2019,
+      "category": [
+        {
+          "id": "620a21b2e0fc277084dfd0c5",
+          "name": "Hành Động",
+          "slug": "hanh-dong"
+        },
+        {
+          "id": "620a2293e0fc277084dfd489",
+          "name": "Phiêu Lưu",
+          "slug": "phieu-luu"
+        }
+      ],
+      "country": [
+        {
+          "id": "620a231fe0fc277084dfd7ce",
+          "name": "Âu Mỹ",
+          "slug": "au-my"
+        }
+      ],
+      "chieurap": false,
+      "poster_url": "sat-thu-john-wick-phan-3-chuan-bi-chien-tranh-poster.jpg",
+      "sub_docquyen": false,
+      "score": 2.25
+    },
+    {
+      "modified": {
         "time": "2023-06-13T14:54:33.000Z"
       },
       "_id": "648009906231cbfdd953e88b",
