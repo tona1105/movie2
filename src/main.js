@@ -8,10 +8,15 @@ import routes from './routes'
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 import { fas } from '@fortawesome/free-solid-svg-icons'
+import VueLazyload from 'vue-lazyload'
+
 
 library.add(fas)
 
 Vue.component('font-awesome-icon', FontAwesomeIcon)
+Vue.use(VueLazyload,{
+  lazyComponent: true
+})
 Vue.use(BootstrapVue)
 Vue.use(IconsPlugin)
 Vue.use(VueRouter)

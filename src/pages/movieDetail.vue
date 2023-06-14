@@ -54,9 +54,9 @@
                     <!-- List movie user may like to watch -->
                     <div class="row">
                         <h3 class="my-0 text-danger">Có thể bạn sẽ thích</h3>
-                        <div v-for="item in randomListNewMovie" :key="item.slug" class="col-6 col-md-4 col-lg-3 my-2">
+                        <lazy-component v-for="item in randomListNewMovie" :key="item.slug" class="col-6 col-md-4 col-lg-3 my-2">
                             <ItemMovie :movie="item" />
-                        </div>
+                        </lazy-component>
                     </div>
                 </div>
                 <div class="col-3 movie-pre">

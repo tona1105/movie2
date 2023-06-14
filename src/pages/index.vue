@@ -33,10 +33,10 @@
                                     <h3 class="text-light mt-2">PHIM LẺ</h3>
                                 </router-link>
                             </div>
-                            <div v-for="(item, index) in listSingleMovie" :key="index"
+                            <lazy-component v-for="(item, index) in listSingleMovie" :key="index"
                                 class="col-6 col-md-4 col-lg-3 text-light mb-4 ">
                                 <ItemMovie :movie="item"/>
-                            </div>
+                            </lazy-component>
                         </div>
                         <div class="row">
                             <div>
@@ -46,10 +46,10 @@
                                     <h3 class="text-light mt-2">PHIM HOẠT HÌNH</h3>
                                 </router-link>
                             </div>
-                            <div v-for="(item, index) in listCartoon" :key="index"
+                            <lazy-component v-for="(item, index) in listCartoon" :key="index"
                                 class="col-6 col-md-4 col-lg-3 text-light  ">
                                 <ItemMovie :movie="item" />
-                            </div>
+                            </lazy-component>
 
                         </div>
                         <router-view></router-view>

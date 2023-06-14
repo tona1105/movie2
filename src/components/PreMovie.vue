@@ -5,9 +5,9 @@
             <ItemMovie :movie="item" />
         </div>
         <h3 class="text-light mt-2">PHIM SẮP CHIẾU</h3>
-        <div v-for="(item, index) in top6OfPreMovie" :key="index" class="text-light">
+        <lazy-component v-for="(item, index) in top6OfPreMovie" :key="index" class="text-light">
             <ItemMovie :movie="item" />
-        </div>
+        </lazy-component>
         
     </div>
 </template>
