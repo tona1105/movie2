@@ -211,7 +211,7 @@ export default {
 
 <style>
 .header-bg {
-    background-color: #0f172a;
+
 }
 
 .header-bg .dropdown-menu {

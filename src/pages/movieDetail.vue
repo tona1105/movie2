@@ -2,65 +2,63 @@
     <DefaultLayout>
         <div class="container">
             <div class="row">
-                <div class="col-sm col-md-9 col-lg-9">
-                    <div>
-                        <b-card no-body class="overflow-hidden">
-                            <b-row no-gutters style="background-color: #111;">
-                                <div class="h-75 col-md-6">
-                                    <b-card-img :src="movie.thumb_url" class="rounded-0 h-100"></b-card-img>
-                                    <router-link :to="{ name: 'movie-watch', params: { slug: slug, ep: '1' } }"
-                                        class="button">Xem ngay</router-link>
-                                </div>
-                                <div class="text-light col-md-6 movie-detail">
-                                    <h3 class="my-0">{{ movie.name }}</h3>
-                                    <p>{{ movie.origin_name }}</p>
-                                    <div>
-                                        <p>Trạng thái: {{ movie.episode_current }} {{ movie.lang }}</p>
-                                        <p>Thể loại:
-                                            <span v-for="(item, index) in category" :key="index">
-                                                <router-link
-                                                    :to="{ name: 'movie-list', params: { slug: item.slug, typeSlug: 'thể loại', name: item.name, type: 'category' } }"
-                                                    class="ml-1 text-light category" style="text-decoration: none;">
-                                                    <span v-if="index !== category.length - 1"> {{ item.name }},</span>
-                                                    <span v-else> {{ item.name }}</span>
-                                                </router-link>
-                                            </span>
-                                            <!-- a -->
-                                        </p>
-                                    </div>
-                                    <p>Đạo diễn:
-                                        <span class="ml-0" v-for="(item, index) in director" :key="index">
-                                            <span v-if="index !== director.length - 1"> {{ item }},</span>
-                                            <span v-else> {{ item }}</span>
-                                        </span>
-                                    </p>
-                                    <p>Diễn viên:
-                                        <span v-for="(item, index) in get5actor" :key="index">
-                                            <span v-if="index !== get5actor.length - 1"> {{ item }},</span>
-                                            <span v-else> {{ item }}</span>
-                                        </span>
+                <div class="col">
+                    <div class="row position-relative">
+                        <div class="position-absolute w-100 h-100">
+                            <img :src=movie.thumb_url class="w-100 h-100" style="opacity: 0.1;" />
+                        </div>
+                        <div class="col-12 col-md-6 z-1">
+                            <img :src="movie.thumb_url" class="w-100" />
+                            <router-link :to="{ name: 'movie-watch', params: { slug: slug, ep: '1' } }" class="button">
+                                Xem ngay
+                            </router-link>
+                        </div>
+                        <div class="col-12 col-md-6 z-1 text-light">
+                            <h3 class="my-0">{{ movie.name }}</h3>
+                            <p>{{ movie.origin_name }}</p>
+                            <div>
+                                <p>Trạng thái: {{ movie.episode_current }} {{ movie.lang }}</p>
+                                <p>Thể loại:
+                                    <span v-for="(item, index) in category" :key="index">
+                                        <router-link
+                                            :to="{ name: 'movie-list', params: { slug: item.slug, typeSlug: 'thể loại', name: item.name, type: 'category' } }"
+                                            class="ml-1 text-light category" style="text-decoration: none;">
+                                            <span v-if="index !== category.length - 1"> {{ item.name }},</span>
+                                            <span v-else> {{ item.name }}</span>
+                                        </router-link>
+                                    </span>
+                                    <!-- a -->
+                                </p>
+                            </div>
+                            <p>Đạo diễn:
+                                <span class="ml-0" v-for="(item, index) in director" :key="index">
+                                    <span v-if="index !== director.length - 1"> {{ item }},</span>
+                                    <span v-else> {{ item }}</span>
+                                </span>
+                            </p>
+                            <p>Diễn viên:
+                                <span v-for="(item, index) in get5actor" :key="index">
+                                    <span v-if="index !== get5actor.length - 1"> {{ item }},</span>
+                                    <span v-else> {{ item }}</span>
+                                </span>
 
-                                    </p>
-                                </div>
-                            </b-row>
-                        </b-card>
-                    </div>
-                    <!-- Movie's content -->
-                    <div class="text-light mb-3">
-                        <h4 class="my-0 text-danger">Nội dung chi tiết</h4>
-                        <h4>{{ movie.name }}</h4>
-                        <span>{{ removePTag(movie.content) }}</span>
+                            </p>
+                            <!-- Movie's content -->
+                            <div class="text-light mb-3">
+                                <h4 class="my-0 text-danger">Nội dung chi tiết</h4>
+                                <h4>{{ movie.name }}</h4>
+                                <span>{{ removePTag(movie.content) }}</span>
+                            </div>
+                        </div>
                     </div>
                     <!-- List movie user may like to watch -->
                     <div class="row">
-                        <h3 class="my-0 text-danger">Có thể bạn sẽ thích</h3>
-                        <lazy-component v-for="item in randomListNewMovie" :key="item.slug" class="col-6 col-md-4 col-lg-3 my-2">
+                        <h3 class="my-0 text-danger my-3" >Có thể bạn sẽ thích</h3>
+                        <lazy-component v-for="item in randomListNewMovie" :key="item.slug"
+                            class="col-6 col-md-4 col-lg-3 my-2">
                             <ItemMovie :movie="item" />
                         </lazy-component>
                     </div>
-                </div>
-                <div class="col-3 movie-pre">
-                    <PreMovie />
                 </div>
             </div>
         </div>
@@ -117,7 +115,7 @@ export default {
         scrollTop() {
             window.scrollTo({
                 top: 0,
-                behavior: 'smooth' 
+                behavior: 'smooth'
             });
         },
         removePTag(string) {
@@ -170,11 +168,15 @@ export default {
     color: #00b8ff !important;
 }
 
+.bg-movie {}
+
 @media screen and (min-width: 312px) and (max-width: 716px) {
     .movie-pre {
         display: none;
     }
+
     .movie-detail {
         margin-left: 0.25rem;
     }
-}</style>
+}
+</style>
