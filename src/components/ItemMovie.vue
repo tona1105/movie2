@@ -1,9 +1,12 @@
 <template>
     <div class="h-100 item-movie  position-relative">
-        <router-link :to="{ name: 'movie-detail', params: { slug: movie.slug } }" style="text-decoration: none;">
+        <router-link :to="{ name: 'movie-detail', params: { slug: movie.slug } }" style="text-decoration: none;display: block; height: 100%;">
             <img v-lazy="'https://img.ophim1.com/uploads/movies/' + movie.thumb_url" class=" w-100 h-100 item-img">
             <font-awesome-icon class="item-icon text-light" icon="play-circle" />
-            <div class="btn btn-primary position-absolute" style="left: 0;">{{ movie.year }}</div>
+            <div class="btn btn-primary position-absolute"
+                style="left: 0; height: 2rem; padding: 0 0.5rem; border-radius: 0;">
+                <span style="position: relative; top: 2px;">{{ movie.year }}</span>
+            </div>
             <div class="text-center text-light position-relative" style="background-color: rgba(0,0,0,.7); bottom:48px">
                 <div class="text-truncate mx-auto w-80">{{ movie.name }} </div>
                 <div class="text-truncate mx-auto w-80">{{ movie.origin_name }}</div>

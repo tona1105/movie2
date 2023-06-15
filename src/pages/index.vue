@@ -13,12 +13,19 @@
                         </div>
                     </flickity>
                     <!-- List movie -->
-                    <div class="col-sm col-md-9">
+                    <div class="col-sm col-md-9 list__line ">
                         <div class="row">
                             <div>
                                 <router-link :to="{ name: 'movie-list', params: { slug: 'phim-bo', name: 'phim bộ' } }"
                                     class="col-3" style="text-decoration: none;">
-                                    <h3 class="text-light mt-2">PHIM BỘ</h3>
+                                    <div class="row">
+                                        <div class="col-8">
+                                            <h4 class="text-light">PHIM BỘ</h4>
+                                        </div>
+                                        <div class="col-4 text-end">
+                                            <h4 class="text-light">XEM THÊM</h4>
+                                        </div>
+                                    </div>
                                 </router-link>
                             </div>
                             <div v-for="(item, index) in listSeriesMovie" :key="index"
@@ -27,15 +34,22 @@
                             </div>
                         </div>
                         <div class="row">
-                            <div class="">
+                            <div class="mt-2">
                                 <router-link :to="{ name: 'movie-list', params: { slug: 'phim-le', name: 'phim lẻ' } }"
                                     class="col-3" style="text-decoration: none;">
-                                    <h3 class="text-light mt-2">PHIM LẺ</h3>
+                                    <div class="row">
+                                        <div class="col-8">
+                                            <h4 class="text-light">PHIM LẺ</h4>
+                                        </div>
+                                        <div class="col-4 text-end">
+                                            <h4 class="text-light">XEM THÊM</h4>
+                                        </div>
+                                    </div>
                                 </router-link>
                             </div>
                             <lazy-component v-for="(item, index) in listSingleMovie" :key="index"
                                 class="col-6 col-md-4 col-lg-3 text-light mb-4 ">
-                                <ItemMovie :movie="item"/>
+                                <ItemMovie :movie="item" />
                             </lazy-component>
                         </div>
                         <div class="row">
@@ -43,7 +57,14 @@
                                 <router-link
                                     :to="{ name: 'movie-list', params: { slug: 'hoat-hinh', name: 'phim hoạt hình' } }"
                                     class="col-3" style="text-decoration: none;">
-                                    <h3 class="text-light mt-2">PHIM HOẠT HÌNH</h3>
+                                    <div class="row">
+                                        <div class="col-8">
+                                            <h4 class="text-light">PHIM HOẠT HÌNH</h4>
+                                        </div>
+                                        <div class="col-4 text-end">
+                                            <h4 class="text-light">XEM THÊM</h4>
+                                        </div>
+                                    </div>
                                 </router-link>
                             </div>
                             <lazy-component v-for="(item, index) in listCartoon" :key="index"
@@ -56,9 +77,7 @@
                     </div>
                     <!-- Top movie -->
                     <div class="col-3 ml-3 premovie">
-                        <div class="row">
                             <PreMovie />
-                        </div>
                     </div>
                 </div>
             </div>
@@ -116,32 +135,32 @@ export default {
 
     methods: {
         getAllMovie() {
-                // block get data by CORS :'(
-                // const response = await axios.get(`https://ophim6.cc/_next/data/bMep5VbIGtkpBRqoaRU-z/danh-sach/phim-bo.json?slug=phim-bo`)
-                // const response2 = await axios.get(`https://ophim6.cc/_next/data/bMep5VbIGtkpBRqoaRU-z/danh-sach/hoat-hinh.json?slug=hoat-hinh`)
-                // const response3 = await axios.get(`https://ophim6.cc/_next/data/bMep5VbIGtkpBRqoaRU-z/danh-sach/phim-le.json?slug=phim-le`)
-                // this.listMovie.push(...response.data.pageProps.data.items);
-                // this.listMovie.push(...response2.data.pageProps.data.items);
-                // this.listMovie.push(...response3.data.pageProps.data.items);
-                const response = phimbo
-                const response2 = phimle
-                const response3 = phimhoathinh
-                this.listMovie.push(...response.items);
-                this.listMovie.push(...response2.items);
-                this.listMovie.push(...response3.items);
-                console.log(this.listMovie)
+            // block get data by CORS :'(
+            // const response = await axios.get(`https://ophim6.cc/_next/data/bMep5VbIGtkpBRqoaRU-z/danh-sach/phim-bo.json?slug=phim-bo`)
+            // const response2 = await axios.get(`https://ophim6.cc/_next/data/bMep5VbIGtkpBRqoaRU-z/danh-sach/hoat-hinh.json?slug=hoat-hinh`)
+            // const response3 = await axios.get(`https://ophim6.cc/_next/data/bMep5VbIGtkpBRqoaRU-z/danh-sach/phim-le.json?slug=phim-le`)
+            // this.listMovie.push(...response.data.pageProps.data.items);
+            // this.listMovie.push(...response2.data.pageProps.data.items);
+            // this.listMovie.push(...response3.data.pageProps.data.items);
+            const response = phimbo
+            const response2 = phimle
+            const response3 = phimhoathinh
+            this.listMovie.push(...response.items);
+            this.listMovie.push(...response2.items);
+            this.listMovie.push(...response3.items);
+            console.log(this.listMovie)
         },
         getListSeriesMovie() {
             const response = phimbo
-            this.listSeriesMovie = response.items.slice(0,24)
+            this.listSeriesMovie = response.items.slice(0, 24)
         },
         getListSingleMovie() {
             const response = phimle
-            this.listSingleMovie = response.items.slice(0,24)
+            this.listSingleMovie = response.items.slice(0, 24)
         },
         getListCartoon() {
             const response = phimhoathinh
-            this.listCartoon = response.items.slice(0,24)
+            this.listCartoon = response.items.slice(0, 24)
         },
     }
 }
@@ -155,13 +174,13 @@ body {
 
 }
 
-.listmovie {
-    background-color: #0f172a;
-    width: 100%;
+.list__line {
+    margin-top: 1rem;
+    border-right: 0.15rem dashed #ccc;
 }
 
-.listmovie tr {
-    color: #B7BEC8;
+.text-end:hover .text-light, .text-end {
+    color:blue !important;
 }
 
 .thumb-movie {

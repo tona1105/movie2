@@ -1,7 +1,7 @@
 <template>
     <div>
-        <h4 class="text-light mt-2 mb-2" style="padding-top: 5px;">PHIM MỚI CẬP NHẬT</h4>
-        <div v-for="(item) in top6OfNewMovie" class="text-light">
+        <h4 class="text-light mt-2 mb-2" style="padding-top: 6px;">PHIM MỚI CẬP NHẬT</h4>
+        <div v-for="(item) in top6OfNewMovie" class="text-light col-12">
             <ItemMovie :movie="item" />
         </div>
         <h3 class="text-light mt-2">PHIM SẮP CHIẾU</h3>
