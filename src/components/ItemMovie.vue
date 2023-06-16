@@ -4,8 +4,12 @@
             <img v-lazy="'https://img.ophim1.com/uploads/movies/' + movie.thumb_url" class=" w-100 h-100 item-img">
             <font-awesome-icon class="item-icon text-light" icon="play-circle" />
             <div class="btn btn-primary position-absolute"
-                style="left: 0; height: 2rem; padding: 0 0.5rem; border-radius: 0;">
+                style="left: 0; height: 1.5rem; padding: 0 0.5rem; border-radius: 0; font-size: 0.75rem;">
                 <span style="position: relative; top: 2px;">{{ movie.year }}</span>
+            </div>
+            <div class="btn btn-success position-absolute"
+                style="right: 0; height: 1.5rem; padding: 0 0.5rem; border-radius: 0; font-size: 0.75rem;">
+                <span style="position: relative; top: 2px;">{{ movie.episode_current }}</span>
             </div>
             <div class="text-center text-light position-relative" style="background-color: rgba(0,0,0,.7); bottom:48px">
                 <div class="text-truncate mx-auto w-80">{{ movie.name }} </div>

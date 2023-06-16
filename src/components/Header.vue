@@ -260,7 +260,7 @@ export default {
 
     .search:hover .form-input, .search:active .form-input {
         display: block !important;
-        z-index: 1;
+        z-index: 2;
     }
 
     .header-menu {
@@ -270,7 +270,7 @@ export default {
         position: absolute;
         top: 30px;
         right: 0;
-        z-index: 1;
+        z-index: 10;
     }
     .header-item .dropdown-menu {
     right: -12px;
@@ -283,7 +283,8 @@ export default {
     .menu-bars {
         display: block;
         position: relative;
-        left: -0.75rem;
+        left: -0.5rem;
+        padding: 2px;
     }
 
     .menu-bars:hover .header-menu, .menu-bars:active .header-menu {
