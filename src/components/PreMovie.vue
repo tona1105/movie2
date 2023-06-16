@@ -8,7 +8,7 @@
         <lazy-component v-for="(item, index) in top6OfPreMovie" :key="index" class="text-light">
             <ItemMovie :movie="item" />
         </lazy-component>
-        
+
     </div>
 </template>
 
@@ -47,8 +47,25 @@ export default {
             this.listPreMovie = response.items
         },
         async getNewMovie() {
-            const response = await axios.get(`https://ophim1.com/danh-sach/phim-moi-cap-nhat?page=1`)
-            this.listNewMovie = response.data.items
+            // ok but too long -> low performed
+            // const response = await axios.get(`https://ophim1.com/danh-sach/phim-moi-cap-nhat?page=1`)
+            // let data =  response.data.items
+            // for (let item in data) {
+            //     const status = await axios.get(`https://ophim1.com/phim/${data[item].slug}`)
+            //     data[item].episode_current = status.data.movie.episode_current
+            // }
+            // console.log(data);
+            // this.listNewMovie = data
+
+            //better
+            const response = await axios.get('https://ophim1.com/danh-sach/phim-moi-cap-nhat?page=1');
+            const data = response.data.items;
+            const promises = data.map(item => axios.get(`https://ophim1.com/phim/${item.slug}`));
+            const results = await Promise.all(promises);
+            for (let i = 0; i < results.length; i++) {
+                data[i].episode_current = results[i].data.movie.episode_current;
+            }
+            this.listNewMovie = data;
         }
     }
 }

@@ -114,9 +114,16 @@ export default {
             const response = await axios.get(`https://ophim1.com/danh-sach/phim-moi-cap-nhat?page=1`)
             const response2 = await axios.get(`https://ophim1.com/danh-sach/phim-moi-cap-nhat?page=2`)
             const response3 = await axios.get(`https://ophim1.com/danh-sach/phim-moi-cap-nhat?page=3`)
-            this.listFilterMovie.push(...response.data.items)
-            this.listFilterMovie.push(...response2.data.items)
-            this.listFilterMovie.push(...response3.data.items)
+            const data = [...response.data.items,...response2.data.items,...response3.data.items]
+            const promises = data.map(item => axios.get(`https://ophim1.com/phim/${item.slug}`))
+            const results = await Promise.all(promises);
+            for (let i = 0; i < results.length; i++) {
+                data[i].episode_current = results[i].data.movie.episode_current;
+            }
+            this.listFilterMovie = data;
+            // this.listFilterMovie.push(...response.data.items)
+            // this.listFilterMovie.push(...response2.data.items)
+            // this.listFilterMovie.push(...response3.data.items)
         },
         getMovieBySlug() {
             let response
