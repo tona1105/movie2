@@ -3,7 +3,7 @@
         <b-navbar class="navbar header-bg navbar-light navbar-expand header-bg">
             <b-navbar-nav class="mx-sm-1 mx-md-2 mx-lg-5">
                 <b-navbar-brand href="/">
-                    <img src="https://placekitten.com/g/30/30" class="d-inline-block align-top" alt="Kitten">
+         
                     WEB PHIM
                 </b-navbar-brand>
                 <b-navbar-brand class="search position-relative px-2">
